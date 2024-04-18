@@ -1,0 +1,10 @@
+# el primer vertice es el origen, los otros los destinos
+a b c f m
+b c d e
+c g
+f g k l
+g h i
+i j
+k l
+j o p
+p o

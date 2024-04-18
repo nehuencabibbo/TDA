@@ -1,0 +1,1000 @@
+Enzo Fernández,Ángel Di María,Jeremías Conan Ledesma,Emiliano Buendía,Ángel Correa,Cristian Romero,Exequiel Palacios
+Giovani Lo Celso,Emiliano Martínez,Rodrigo Javier De Paul,Nicolás Otamendi,Alexis Mac Allister,Mauro Icardi,Facundo Medina,Erik Lamela,Thiago Almada
+Marcos Acuña,Lucas Ocampos,Rodrigo Javier De Paul,Alexis Mac Allister,Valentin Castellanos
+Marcos Acuña,Lucas Ocampos,Gerónimo Rulli,Valentin Castellanos,Cristian Romero
+Nicolás Tagliafico,Emiliano Buendía,Ángel Correa,Cristian Romero,Ezequiel Ávila
+Enzo Fernández,Gerónimo Rulli,Jeremías Conan Ledesma,Exequiel Palacios
+Giovani Lo Celso,Nicolás Tagliafico,Rodrigo Javier De Paul,Juan Foyth,Julián Álvarez,Lisandro Martínez,Cristian Romero,Exequiel Palacios
+Nahuel Molina,Nicolás Tagliafico,Alexis Mac Allister,Mauro Icardi,Ángel Correa,Exequiel Palacios
+Nicolás González,Nicolás Tagliafico,Gerónimo Rulli,Mauro Icardi,Guido Rodríguez,Ezequiel Ávila
+Alexis Mac Allister,Gerónimo Rulli,Mauro Icardi
+Enzo Fernández,Giovani Lo Celso,Lisandro Martínez,Gerónimo Rulli,Facundo Medina,Lautaro Martínez
+Ángel Di María,Giovani Lo Celso,Lucas Ocampos,Emiliano Martínez,Gerónimo Rulli,Mauro Icardi
+Lautaro Martínez,Thiago Almada,Jeremías Conan Ledesma
+Enzo Fernández,Giovani Lo Celso,Emiliano Martínez,Paulo Dybala,Ezequiel Ávila,Mauro Icardi,Exequiel Palacios
+Giovani Lo Celso,Nicolás González,Lucas Ocampos,Emiliano Martínez,Julián Álvarez,Cristian Romero
+Nahuel Molina,Marcos Acuña,Enzo Fernández,Lucas Ocampos,Jeremías Conan Ledesma,Rodrigo Javier De Paul,Ángel Correa,Thiago Almada
+Lisandro Martínez,Lautaro Martínez,Gerónimo Rulli,Mauro Icardi
+Ángel Di María,Lucas Ocampos,Valentin Castellanos,Ángel Correa,Lisandro Martínez,Thiago Almada,Exequiel Palacios
+Lisandro Martínez,Valentin Castellanos,Ángel Di María,Juan Foyth
+Ángel Correa,Marcos Acuña,Thiago Almada,Lautaro Martínez
+Ángel Correa,Julián Álvarez,Mauro Icardi,Facundo Medina,Thiago Almada
+Nahuel Molina,Nicolás Tagliafico,Emiliano Martínez
+Nicolás Tagliafico,Emiliano Martínez,Erik Lamela,Thiago Almada,Cristian Romero,Ezequiel Ávila
+Emiliano Martínez,Lisandro Martínez,Julián Álvarez,Emiliano Buendía,Lautaro Martínez
+Marcos Acuña,Nicolás González,Nicolás Otamendi,Alexis Mac Allister,Julián Álvarez,Mauro Icardi,Guido Rodríguez,Ezequiel Ávila
+Nicolás Tagliafico,Nicolás Otamendi,Paulo Dybala,Guido Rodríguez,Cristian Romero
+Valentin Castellanos,Cristian Romero,Emiliano Buendía
+Marcos Acuña,Lucas Ocampos,Paulo Dybala,Nicolás Otamendi,Juan Foyth,Ángel Correa,Guido Rodríguez
+Nicolás Otamendi,Cristian Romero
+Nahuel Molina,Ángel Di María,Nicolás González,Lucas Ocampos,Julián Álvarez,Guido Rodríguez,Exequiel Palacios
+Marcos Acuña,Rodrigo Javier De Paul,Nicolás Otamendi,Ángel Correa,Thiago Almada
+Jeremías Conan Ledesma,Nicolás Tagliafico,Rodrigo Javier De Paul,Facundo Medina,Thiago Almada
+Nahuel Molina,Enzo Fernández,Erik Lamela,Nicolás Otamendi,Juan Foyth,Gerónimo Rulli,Valentin Castellanos,Mauro Icardi,Lautaro Martínez
+Ángel Di María,Nicolás Tagliafico,Rodrigo Javier De Paul,Gerónimo Rulli,Thiago Almada,Cristian Romero
+Nicolás González,Emiliano Martínez,Rodrigo Javier De Paul,Ángel Correa,Lisandro Martínez
+Lisandro Martínez,Marcos Acuña,Juan Foyth
+Nicolás González,Alexis Mac Allister,Rodrigo Javier De Paul,Valentin Castellanos,Facundo Medina,Lisandro Martínez,Guido Rodríguez,Cristian Romero,Ezequiel Ávila
+Nahuel Molina,Giovani Lo Celso,Nicolás González,Emiliano Martínez,Julián Álvarez,Exequiel Palacios,Facundo Medina,Lisandro Martínez,Ezequiel Ávila
+Marcos Acuña,Rodrigo Javier De Paul,Juan Foyth,Valentin Castellanos,Ángel Correa,Cristian Romero,Exequiel Palacios
+Nahuel Molina,Marcos Acuña,Ángel Di María,Nicolás González,Valentin Castellanos,Emiliano Buendía,Lisandro Martínez,Ezequiel Ávila
+Nahuel Molina,Marcos Acuña,Giovani Lo Celso,Jeremías Conan Ledesma,Paulo Dybala,Valentin Castellanos,Facundo Medina,Lautaro Martínez,Cristian Romero
+Ángel Di María,Giovani Lo Celso,Rodrigo Javier De Paul,Gerónimo Rulli,Julián Álvarez,Guido Rodríguez
+Nahuel Molina,Mauro Icardi,Jeremías Conan Ledesma,Exequiel Palacios
+Enzo Fernández,Giovani Lo Celso,Lucas Ocampos,Lisandro Martínez,Valentin Castellanos,Emiliano Buendía,Ángel Correa,Lautaro Martínez,Thiago Almada,Facundo Medina
+Enzo Fernández,Lucas Ocampos,Emiliano Martínez,Alexis Mac Allister,Ezequiel Ávila,Julián Álvarez,Mauro Icardi,Guido Rodríguez,Cristian Romero,Exequiel Palacios
+Alexis Mac Allister,Thiago Almada,Guido Rodríguez,Lucas Ocampos
+Marcos Acuña,Jeremías Conan Ledesma,Nicolás Otamendi,Guido Rodríguez,Exequiel Palacios
+Jeremías Conan Ledesma,Juan Foyth,Mauro Icardi,Emiliano Buendía,Facundo Medina,Lautaro Martínez,Thiago Almada,Exequiel Palacios
+Ángel Di María,Lucas Ocampos,Jeremías Conan Ledesma,Paulo Dybala,Julián Álvarez,Emiliano Buendía,Erik Lamela,Thiago Almada,Cristian Romero
+Marcos Acuña,Lucas Ocampos,Paulo Dybala,Erik Lamela,Exequiel Palacios
+Marcos Acuña,Nicolás González,Lucas Ocampos,Alexis Mac Allister,Emiliano Buendía,Lisandro Martínez,Ezequiel Ávila
+Ángel Correa,Gerónimo Rulli,Jeremías Conan Ledesma,Ezequiel Ávila
+Giovani Lo Celso,Valentin Castellanos,Julián Álvarez,Emiliano Buendía,Erik Lamela,Exequiel Palacios
+Ángel Di María,Nicolás González,Alexis Mac Allister,Juan Foyth,Guido Rodríguez
+Lautaro Martínez,Valentin Castellanos,Paulo Dybala
+Rodrigo Javier De Paul,Marcos Acuña,Alexis Mac Allister,Facundo Medina
+Marcos Acuña,Nicolás Tagliafico,Valentin Castellanos,Emiliano Buendía,Erik Lamela
+Nahuel Molina,Marcos Acuña,Ángel Di María,Lucas Ocampos,Jeremías Conan Ledesma,Juan Foyth,Valentin Castellanos,Guido Rodríguez
+Nicolás González,Lucas Ocampos,Emiliano Martínez,Rodrigo Javier De Paul,Facundo Medina,Guido Rodríguez
+Lautaro Martínez,Enzo Fernández,Juan Foyth
+Ángel Correa,Enzo Fernández,Juan Foyth,Exequiel Palacios
+Enzo Fernández,Nicolás González,Paulo Dybala,Alexis Mac Allister,Valentin Castellanos,Mauro Icardi,Ángel Correa,Exequiel Palacios
+Enzo Fernández,Ángel Di María,Emiliano Martínez,Paulo Dybala,Guido Rodríguez,Ezequiel Ávila
+Enzo Fernández,Nicolás González,Emiliano Martínez,Nicolás Otamendi,Exequiel Palacios
+Giovani Lo Celso,Rodrigo Javier De Paul,Gerónimo Rulli,Lisandro Martínez,Guido Rodríguez,Cristian Romero
+Marcos Acuña,Giovani Lo Celso,Nicolás Tagliafico,Juan Foyth,Julián Álvarez,Cristian Romero
+Ángel Di María,Paulo Dybala,Mauro Icardi,Cristian Romero,Exequiel Palacios
+Enzo Fernández,Giovani Lo Celso,Nicolás González,Valentin Castellanos,Facundo Medina,Lisandro Martínez,Guido Rodríguez
+Marcos Acuña,Enzo Fernández,Lucas Ocampos,Nicolás Tagliafico,Alexis Mac Allister,Gerónimo Rulli,Guido Rodríguez,Erik Lamela,Lautaro Martínez
+Emiliano Martínez,Rodrigo Javier De Paul,Nicolás Otamendi,Paulo Dybala,Juan Foyth,Emiliano Buendía,Lautaro Martínez,Guido Rodríguez
+Nahuel Molina,Ángel Di María,Emiliano Martínez,Rodrigo Javier De Paul,Julián Álvarez,Ángel Correa
+Nahuel Molina,Marcos Acuña,Lucas Ocampos,Paulo Dybala,Julián Álvarez,Mauro Icardi,Erik Lamela,Exequiel Palacios
+Enzo Fernández,Nicolás González,Nicolás Tagliafico,Juan Foyth,Gerónimo Rulli,Valentin Castellanos,Guido Rodríguez
+Nicolás González,Lucas Ocampos,Emiliano Martínez,Nicolás Otamendi,Jeremías Conan Ledesma,Juan Foyth,Julián Álvarez,Facundo Medina,Guido Rodríguez,Exequiel Palacios
+Nicolás Otamendi,Juan Foyth,Valentin Castellanos,Julián Álvarez,Facundo Medina,Cristian Romero,Exequiel Palacios
+Marcos Acuña,Enzo Fernández,Giovani Lo Celso,Nicolás Otamendi,Alexis Mac Allister,Ezequiel Ávila,Mauro Icardi,Guido Rodríguez,Exequiel Palacios
+Nicolás Otamendi,Lisandro Martínez,Valentin Castellanos
+Ángel Di María,Paulo Dybala,Nicolás Otamendi,Emiliano Buendía,Exequiel Palacios
+Nicolás González,Emiliano Martínez,Rodrigo Javier De Paul,Alexis Mac Allister,Gerónimo Rulli,Lisandro Martínez
+Nahuel Molina,Nicolás González,Lucas Ocampos,Nicolás Tagliafico,Alexis Mac Allister,Erik Lamela,Cristian Romero,Ezequiel Ávila
+Nahuel Molina,Lucas Ocampos,Juan Foyth,Emiliano Buendía,Lisandro Martínez,Guido Rodríguez
+Marcos Acuña,Enzo Fernández,Jeremías Conan Ledesma,Juan Foyth,Valentin Castellanos,Erik Lamela
+Nahuel Molina,Enzo Fernández,Emiliano Martínez,Paulo Dybala,Nicolás Otamendi,Gerónimo Rulli,Julián Álvarez,Lautaro Martínez,Exequiel Palacios
+Giovani Lo Celso,Lucas Ocampos,Paulo Dybala,Nicolás Otamendi,Mauro Icardi,Facundo Medina,Ezequiel Ávila
+Valentin Castellanos,Jeremías Conan Ledesma,Paulo Dybala
+Nahuel Molina,Ángel Di María,Paulo Dybala,Emiliano Martínez,Nicolás Tagliafico
+Ángel Correa,Giovani Lo Celso,Facundo Medina
+Marcos Acuña,Enzo Fernández,Nicolás González,Paulo Dybala,Nicolás Otamendi,Rodrigo Javier De Paul,Mauro Icardi,Emiliano Buendía,Erik Lamela
+Nahuel Molina,Paulo Dybala,Nicolás Tagliafico,Emiliano Martínez,Thiago Almada,Emiliano Buendía,Ángel Correa,Guido Rodríguez
+Giovani Lo Celso,Jeremías Conan Ledesma,Emiliano Martínez,Alexis Mac Allister,Gerónimo Rulli,Emiliano Buendía,Erik Lamela,Thiago Almada
+Marcos Acuña,Paulo Dybala,Alexis Mac Allister,Juan Foyth,Mauro Icardi,Lisandro Martínez,Guido Rodríguez,Ezequiel Ávila
+Enzo Fernández,Jeremías Conan Ledesma,Lucas Ocampos,Paulo Dybala,Juan Foyth,Julián Álvarez,Emiliano Buendía,Lautaro Martínez,Exequiel Palacios
+Ángel Correa,Nicolás González,Jeremías Conan Ledesma,Juan Foyth,Facundo Medina
+Ángel Correa,Nahuel Molina,Alexis Mac Allister,Nicolás Tagliafico
+Enzo Fernández,Nicolás Otamendi,Rodrigo Javier De Paul,Juan Foyth,Valentin Castellanos,Ángel Correa,Ezequiel Ávila
+Rodrigo Javier De Paul,Juan Foyth,Nicolás González
+Enzo Fernández,Nicolás González,Gerónimo Rulli,Julián Álvarez,Guido Rodríguez,Exequiel Palacios
+Ángel Di María,Lucas Ocampos,Nicolás Tagliafico,Nicolás Otamendi,Facundo Medina,Lisandro Martínez,Thiago Almada
+Enzo Fernández,Lucas Ocampos,Paulo Dybala,Alexis Mac Allister,Mauro Icardi
+Nahuel Molina,Enzo Fernández,Jeremías Conan Ledesma,Emiliano Buendía,Guido Rodríguez,Cristian Romero,Exequiel Palacios
+Marcos Acuña,Emiliano Martínez,Juan Foyth,Gerónimo Rulli,Valentin Castellanos,Ezequiel Ávila
+Nahuel Molina,Marcos Acuña,Paulo Dybala,Mauro Icardi,Emiliano Buendía
+Alexis Mac Allister,Valentin Castellanos,Paulo Dybala
+Lucas Ocampos,Paulo Dybala,Gerónimo Rulli,Ezequiel Ávila,Emiliano Buendía,Facundo Medina,Thiago Almada,Exequiel Palacios
+Giovani Lo Celso,Jeremías Conan Ledesma,Rodrigo Javier De Paul,Julián Álvarez,Erik Lamela,Exequiel Palacios
+Ángel Correa,Erik Lamela,Gerónimo Rulli
+Nahuel Molina,Thiago Almada,Lucas Ocampos
+Enzo Fernández,Jeremías Conan Ledesma,Emiliano Martínez,Nicolás Otamendi,Gerónimo Rulli,Valentin Castellanos,Ángel Correa
+Rodrigo Javier De Paul,Guido Rodríguez,Juan Foyth
+Marcos Acuña,Nicolás González,Rodrigo Javier De Paul,Juan Foyth,Mauro Icardi,Lisandro Martínez
+Nicolás González,Lucas Ocampos,Alexis Mac Allister,Emiliano Buendía,Ángel Correa,Thiago Almada
+Facundo Medina,Lisandro Martínez,Ezequiel Ávila
+Nahuel Molina,Enzo Fernández,Nicolás González,Lucas Ocampos,Emiliano Martínez,Nicolás Tagliafico,Ezequiel Ávila
+Ángel Di María,Lucas Ocampos,Paulo Dybala,Nicolás Tagliafico,Gerónimo Rulli,Emiliano Buendía,Lautaro Martínez,Cristian Romero
+Enzo Fernández,Ángel Di María,Nicolás González,Emiliano Martínez,Gerónimo Rulli,Julián Álvarez,Ángel Correa,Guido Rodríguez,Facundo Medina
+Marcos Acuña,Valentin Castellanos,Mauro Icardi,Emiliano Buendía,Facundo Medina,Lisandro Martínez,Cristian Romero
+Jeremías Conan Ledesma,Gerónimo Rulli,Lisandro Martínez,Thiago Almada,Cristian Romero
+Ángel Di María,Nicolás González,Paulo Dybala,Valentin Castellanos,Julián Álvarez,Guido Rodríguez,Exequiel Palacios
+Nahuel Molina,Marcos Acuña,Nicolás González,Nicolás Otamendi,Gerónimo Rulli,Valentin Castellanos,Guido Rodríguez,Exequiel Palacios
+Nicolás González,Emiliano Martínez,Rodrigo Javier De Paul,Julián Álvarez,Erik Lamela,Cristian Romero
+Nahuel Molina,Lucas Ocampos,Juan Foyth,Valentin Castellanos,Emiliano Buendía,Ángel Correa,Ezequiel Ávila
+Rodrigo Javier De Paul,Valentin Castellanos,Juan Foyth,Facundo Medina
+Nicolás González,Jeremías Conan Ledesma,Valentin Castellanos,Lisandro Martínez,Thiago Almada
+Nicolás González,Nicolás Otamendi,Facundo Medina,Thiago Almada,Cristian Romero,Exequiel Palacios
+Facundo Medina,Lisandro Martínez,Giovani Lo Celso,Alexis Mac Allister
+Marcos Acuña,Enzo Fernández,Juan Foyth,Exequiel Palacios
+Erik Lamela,Thiago Almada,Juan Foyth
+Jeremías Conan Ledesma,Emiliano Martínez,Alexis Mac Allister,Nicolás Tagliafico,Exequiel Palacios
+Nahuel Molina,Alexis Mac Allister,Exequiel Palacios,Julián Álvarez,Ángel Correa,Ezequiel Ávila
+Rodrigo Javier De Paul,Alexis Mac Allister,Ezequiel Ávila
+Ángel Di María,Jeremías Conan Ledesma,Valentin Castellanos,Thiago Almada,Erik Lamela,Guido Rodríguez
+Lisandro Martínez,Valentin Castellanos,Nicolás González,Enzo Fernández
+Enzo Fernández,Nicolás González,Jeremías Conan Ledesma,Nicolás Tagliafico,Gerónimo Rulli,Julián Álvarez,Ángel Correa,Erik Lamela
+Ángel Di María,Nicolás González,Lucas Ocampos,Rodrigo Javier De Paul,Alexis Mac Allister,Gerónimo Rulli,Valentin Castellanos,Erik Lamela
+Marcos Acuña,Enzo Fernández,Giovani Lo Celso,Ezequiel Ávila,Guido Rodríguez,Ángel Correa,Thiago Almada,Facundo Medina
+Giovani Lo Celso,Rodrigo Javier De Paul,Nicolás Otamendi,Mauro Icardi,Thiago Almada,Facundo Medina,Lisandro Martínez,Guido Rodríguez,Cristian Romero
+Lucas Ocampos,Nicolás Otamendi,Mauro Icardi,Facundo Medina,Ezequiel Ávila
+Marcos Acuña,Nicolás Otamendi,Juan Foyth,Lautaro Martínez,Thiago Almada,Exequiel Palacios
+Nicolás Otamendi,Guido Rodríguez,Nicolás González
+Marcos Acuña,Nicolás González,Paulo Dybala,Nicolás Tagliafico,Emiliano Martínez,Juan Foyth,Lisandro Martínez
+Nicolás Tagliafico,Nicolás Otamendi,Rodrigo Javier De Paul,Gerónimo Rulli,Valentin Castellanos,Julián Álvarez,Ángel Correa,Erik Lamela,Thiago Almada
+Marcos Acuña,Giovani Lo Celso,Nicolás Otamendi,Rodrigo Javier De Paul,Alexis Mac Allister,Ángel Correa
+Nahuel Molina,Emiliano Martínez,Rodrigo Javier De Paul,Paulo Dybala,Mauro Icardi,Cristian Romero
+Lisandro Martínez,Emiliano Martínez,Paulo Dybala
+Lisandro Martínez,Giovani Lo Celso,Thiago Almada
+Marcos Acuña,Jeremías Conan Ledesma,Paulo Dybala,Emiliano Martínez,Juan Foyth,Valentin Castellanos,Emiliano Buendía,Ángel Correa,Erik Lamela
+Ángel Correa,Lucas Ocampos,Nicolás Tagliafico,Nicolás Otamendi,Rodrigo Javier De Paul,Mauro Icardi,Facundo Medina,Cristian Romero
+Nahuel Molina,Enzo Fernández,Erik Lamela,Nicolás González,Jeremías Conan Ledesma,Julián Álvarez,Ángel Correa,Lautaro Martínez
+Marcos Acuña,Jeremías Conan Ledesma,Emiliano Martínez,Gerónimo Rulli,Ángel Correa,Erik Lamela
+Alexis Mac Allister,Julián Álvarez,Exequiel Palacios
+Jeremías Conan Ledesma,Lucas Ocampos,Lisandro Martínez,Mauro Icardi,Emiliano Buendía,Ángel Correa,Erik Lamela,Thiago Almada,Cristian Romero
+Marcos Acuña,Jeremías Conan Ledesma,Nicolás Tagliafico,Lucas Ocampos,Paulo Dybala,Alexis Mac Allister,Thiago Almada,Facundo Medina,Lisandro Martínez,Lautaro Martínez
+Nahuel Molina,Lisandro Martínez,Mauro Icardi,Emiliano Martínez
+Nicolás Otamendi,Juan Foyth,Gerónimo Rulli,Valentin Castellanos,Emiliano Buendía,Lisandro Martínez
+Marcos Acuña,Lautaro Martínez,Gerónimo Rulli
+Lucas Ocampos,Emiliano Martínez,Alexis Mac Allister,Rodrigo Javier De Paul,Julián Álvarez,Ángel Correa,Lautaro Martínez
+Ángel Di María,Jeremías Conan Ledesma,Lucas Ocampos,Paulo Dybala,Erik Lamela,Exequiel Palacios
+Nahuel Molina,Valentin Castellanos,Enzo Fernández,Ángel Di María
+Ángel Di María,Giovani Lo Celso,Jeremías Conan Ledesma,Nicolás Tagliafico,Alexis Mac Allister,Juan Foyth,Valentin Castellanos
+Ángel Di María,Jeremías Conan Ledesma,Valentin Castellanos,Mauro Icardi,Erik Lamela,Thiago Almada,Ezequiel Ávila
+Lucas Ocampos,Emiliano Martínez,Rodrigo Javier De Paul,Nicolás Otamendi,Mauro Icardi,Lautaro Martínez
+Ángel Di María,Paulo Dybala,Alexis Mac Allister,Nicolás Tagliafico,Rodrigo Javier De Paul,Valentin Castellanos,Thiago Almada,Ezequiel Ávila
+Marcos Acuña,Nicolás González,Paulo Dybala,Nicolás Otamendi,Alexis Mac Allister,Juan Foyth,Lautaro Martínez
+Enzo Fernández,Lucas Ocampos,Juan Foyth,Gerónimo Rulli,Thiago Almada
+Giovani Lo Celso,Jeremías Conan Ledesma,Rodrigo Javier De Paul,Thiago Almada,Cristian Romero
+Marcos Acuña,Ángel Di María,Emiliano Martínez,Alexis Mac Allister,Julián Álvarez,Ángel Correa,Cristian Romero,Ezequiel Ávila
+Facundo Medina,Lautaro Martínez,Gerónimo Rulli
+Nahuel Molina,Marcos Acuña,Paulo Dybala,Rodrigo Javier De Paul,Emiliano Martínez,Valentin Castellanos,Mauro Icardi,Guido Rodríguez
+Enzo Fernández,Guido Rodríguez,Thiago Almada
+Marcos Acuña,Ángel Di María,Emiliano Martínez,Valentin Castellanos,Lautaro Martínez
+Giovani Lo Celso,Jeremías Conan Ledesma,Emiliano Buendía,Lautaro Martínez,Guido Rodríguez
+Ángel Di María,Exequiel Palacios,Ezequiel Ávila
+Jeremías Conan Ledesma,Rodrigo Javier De Paul,Alexis Mac Allister,Gerónimo Rulli,Mauro Icardi,Lautaro Martínez,Guido Rodríguez
+Marcos Acuña,Nicolás Otamendi,Gerónimo Rulli,Ángel Correa,Erik Lamela,Facundo Medina
+Marcos Acuña,Nicolás González,Paulo Dybala,Rodrigo Javier De Paul,Emiliano Buendía,Facundo Medina,Guido Rodríguez
+Lisandro Martínez,Giovani Lo Celso,Guido Rodríguez
+Nicolás Tagliafico,Alexis Mac Allister,Nicolás Otamendi,Juan Foyth,Gerónimo Rulli,Thiago Almada
+Nahuel Molina,Rodrigo Javier De Paul,Nicolás Otamendi,Juan Foyth,Ángel Correa,Cristian Romero,Ezequiel Ávila
+Marcos Acuña,Enzo Fernández,Rodrigo Javier De Paul,Lisandro Martínez,Cristian Romero
+Giovani Lo Celso,Nicolás González,Jeremías Conan Ledesma,Emiliano Martínez,Alexis Mac Allister,Mauro Icardi,Ezequiel Ávila
+Ángel Correa,Nahuel Molina,Nicolás Tagliafico
+Paulo Dybala,Nicolás Otamendi,Gerónimo Rulli,Julián Álvarez,Erik Lamela,Exequiel Palacios
+Lisandro Martínez,Enzo Fernández,Gerónimo Rulli
+Alexis Mac Allister,Juan Foyth,Nicolás Otamendi
+Marcos Acuña,Giovani Lo Celso,Rodrigo Javier De Paul,Valentin Castellanos,Facundo Medina,Thiago Almada,Cristian Romero
+Enzo Fernández,Nicolás Tagliafico,Rodrigo Javier De Paul,Alexis Mac Allister,Facundo Medina,Lisandro Martínez,Thiago Almada
+Emiliano Martínez,Nicolás Otamendi,Nicolás Tagliafico,Julián Álvarez,Erik Lamela
+Ángel Di María,Alexis Mac Allister,Nicolás Otamendi,Juan Foyth,Gerónimo Rulli,Valentin Castellanos,Ángel Correa,Lisandro Martínez,Guido Rodríguez
+Nahuel Molina,Marcos Acuña,Enzo Fernández,Nicolás González,Jeremías Conan Ledesma,Valentin Castellanos,Mauro Icardi,Guido Rodríguez,Ezequiel Ávila
+Enzo Fernández,Ángel Di María,Jeremías Conan Ledesma,Rodrigo Javier De Paul,Nicolás Otamendi,Julián Álvarez,Emiliano Buendía,Lautaro Martínez
+Nahuel Molina,Ángel Di María,Rodrigo Javier De Paul,Paulo Dybala
+Marcos Acuña,Giovani Lo Celso,Guido Rodríguez,Erik Lamela
+Jeremías Conan Ledesma,Gerónimo Rulli,Julián Álvarez,Emiliano Buendía,Ángel Correa
+Enzo Fernández,Giovani Lo Celso,Nicolás González,Lucas Ocampos,Jeremías Conan Ledesma,Rodrigo Javier De Paul,Alexis Mac Allister,Gerónimo Rulli,Lautaro Martínez
+Nahuel Molina,Enzo Fernández,Lucas Ocampos,Nicolás Tagliafico,Emiliano Martínez,Juan Foyth,Erik Lamela
+Giovani Lo Celso,Jeremías Conan Ledesma,Nicolás Otamendi,Rodrigo Javier De Paul,Lisandro Martínez,Cristian Romero,Exequiel Palacios
+Nahuel Molina,Lucas Ocampos,Emiliano Martínez,Valentin Castellanos,Mauro Icardi,Ángel Correa,Thiago Almada
+Nahuel Molina,Marcos Acuña,Nicolás González,Jeremías Conan Ledesma,Juan Foyth,Julián Álvarez,Ángel Correa,Thiago Almada,Cristian Romero,Exequiel Palacios
+Ezequiel Ávila,Lucas Ocampos,Emiliano Buendía
+Rodrigo Javier De Paul,Lisandro Martínez,Erik Lamela,Lautaro Martínez,Ezequiel Ávila
+Nahuel Molina,Ángel Di María,Nicolás Tagliafico,Nicolás Otamendi,Alexis Mac Allister,Lisandro Martínez,Facundo Medina,Lautaro Martínez,Thiago Almada
+Marcos Acuña,Giovani Lo Celso,Ángel Di María,Nicolás Tagliafico,Ángel Correa,Ezequiel Ávila
+Nicolás Otamendi,Nicolás González,Lucas Ocampos,Nicolás Tagliafico
+Erik Lamela,Jeremías Conan Ledesma,Emiliano Martínez,Rodrigo Javier De Paul,Lisandro Martínez,Julián Álvarez,Ángel Correa,Lautaro Martínez
+Paulo Dybala,Gerónimo Rulli,Mauro Icardi,Emiliano Buendía,Lisandro Martínez,Guido Rodríguez,Ezequiel Ávila
+Enzo Fernández,Nicolás González,Lisandro Martínez,Ángel Correa,Erik Lamela,Thiago Almada,Cristian Romero
+Ángel Correa,Lisandro Martínez,Giovani Lo Celso,Juan Foyth
+Marcos Acuña,Enzo Fernández,Erik Lamela
+Marcos Acuña,Jeremías Conan Ledesma,Paulo Dybala,Rodrigo Javier De Paul,Nicolás Tagliafico,Emiliano Martínez,Mauro Icardi
+Ezequiel Ávila,Juan Foyth,Jeremías Conan Ledesma,Exequiel Palacios
+Valentin Castellanos,Giovani Lo Celso,Guido Rodríguez
+Giovani Lo Celso,Ángel Di María,Jeremías Conan Ledesma,Nicolás Tagliafico,Lisandro Martínez,Julián Álvarez,Emiliano Buendía,Lautaro Martínez
+Nahuel Molina,Marcos Acuña,Ángel Di María,Alexis Mac Allister,Juan Foyth,Lautaro Martínez,Exequiel Palacios
+Lautaro Martínez,Valentin Castellanos,Thiago Almada,Ezequiel Ávila
+Nahuel Molina,Marcos Acuña,Nicolás Tagliafico,Alexis Mac Allister,Gerónimo Rulli,Julián Álvarez,Erik Lamela,Ezequiel Ávila
+Ángel Correa,Erik Lamela,Valentin Castellanos,Paulo Dybala
+Ángel Correa,Lautaro Martínez,Gerónimo Rulli,Paulo Dybala
+Ángel Correa,Jeremías Conan Ledesma,Facundo Medina,Cristian Romero,Exequiel Palacios
+Nicolás Otamendi,Lisandro Martínez,Julián Álvarez,Jeremías Conan Ledesma
+Nahuel Molina,Emiliano Martínez,Rodrigo Javier De Paul,Paulo Dybala,Ezequiel Ávila,Julián Álvarez,Thiago Almada,Exequiel Palacios
+Rodrigo Javier De Paul,Marcos Acuña,Emiliano Martínez
+Marcos Acuña,Paulo Dybala,Nicolás Tagliafico,Alexis Mac Allister,Juan Foyth,Mauro Icardi,Lautaro Martínez,Cristian Romero,Exequiel Palacios
+Marcos Acuña,Rodrigo Javier De Paul,Valentin Castellanos,Julián Álvarez,Ángel Correa,Lisandro Martínez,Cristian Romero
+Thiago Almada,Julián Álvarez,Emiliano Buendía
+Giovani Lo Celso,Nicolás González,Juan Foyth,Julián Álvarez,Ángel Correa,Thiago Almada
+Ángel Di María,Paulo Dybala,Gerónimo Rulli,Emiliano Buendía,Facundo Medina
+Alexis Mac Allister,Thiago Almada,Ángel Correa,Erik Lamela,Guido Rodríguez,Cristian Romero
+Enzo Fernández,Jeremías Conan Ledesma,Emiliano Martínez,Nicolás Otamendi,Julián Álvarez,Mauro Icardi,Ángel Correa,Lautaro Martínez,Guido Rodríguez
+Giovani Lo Celso,Nicolás González,Nicolás Tagliafico,Nicolás Otamendi,Emiliano Buendía,Cristian Romero,Exequiel Palacios
+Facundo Medina,Lautaro Martínez,Jeremías Conan Ledesma
+Nahuel Molina,Enzo Fernández,Paulo Dybala,Rodrigo Javier De Paul,Julián Álvarez,Emiliano Buendía,Cristian Romero,Ezequiel Ávila
+Nahuel Molina,Rodrigo Javier De Paul,Lisandro Martínez,Juan Foyth,Mauro Icardi,Emiliano Buendía,Lautaro Martínez,Exequiel Palacios
+Alexis Mac Allister,Rodrigo Javier De Paul,Julián Álvarez,Emiliano Buendía
+Nicolás González,Lucas Ocampos,Nicolás Otamendi,Ángel Correa,Cristian Romero,Ezequiel Ávila
+Alexis Mac Allister,Ángel Correa,Valentin Castellanos,Julián Álvarez
+Rodrigo Javier De Paul,Cristian Romero,Jeremías Conan Ledesma
+Nicolás Otamendi,Enzo Fernández,Emiliano Buendía,Ezequiel Ávila
+Nicolás Tagliafico,Alexis Mac Allister,Paulo Dybala,Ezequiel Ávila,Mauro Icardi,Emiliano Buendía,Exequiel Palacios
+Marcos Acuña,Enzo Fernández,Gerónimo Rulli,Thiago Almada,Mauro Icardi,Facundo Medina,Lisandro Martínez,Guido Rodríguez,Emiliano Buendía
+Nahuel Molina,Ángel Di María,Nicolás González,Paulo Dybala,Gerónimo Rulli,Emiliano Buendía,Guido Rodríguez,Cristian Romero
+Lucas Ocampos,Nicolás Tagliafico,Rodrigo Javier De Paul,Nicolás Otamendi,Valentin Castellanos,Emiliano Buendía,Erik Lamela,Guido Rodríguez,Cristian Romero
+Facundo Medina,Valentin Castellanos,Guido Rodríguez,Exequiel Palacios
+Giovani Lo Celso,Paulo Dybala,Nicolás Otamendi,Emiliano Martínez,Juan Foyth,Gerónimo Rulli,Valentin Castellanos,Mauro Icardi,Facundo Medina
+Ángel Di María,Giovani Lo Celso,Emiliano Martínez,Gerónimo Rulli,Emiliano Buendía,Lautaro Martínez,Guido Rodríguez,Ezequiel Ávila
+Enzo Fernández,Juan Foyth,Exequiel Palacios
+Nahuel Molina,Emiliano Martínez,Rodrigo Javier De Paul,Paulo Dybala,Nicolás Otamendi,Facundo Medina
+Jeremías Conan Ledesma,Paulo Dybala,Rodrigo Javier De Paul,Gerónimo Rulli,Valentin Castellanos,Lautaro Martínez
+Nicolás González,Jeremías Conan Ledesma,Juan Foyth,Ezequiel Ávila,Exequiel Palacios
+Lisandro Martínez,Thiago Almada,Cristian Romero,Jeremías Conan Ledesma
+Nahuel Molina,Ángel Di María,Nicolás González,Lucas Ocampos,Paulo Dybala,Valentin Castellanos,Emiliano Buendía,Lautaro Martínez,Exequiel Palacios
+Giovani Lo Celso,Lucas Ocampos,Juan Foyth,Mauro Icardi,Lisandro Martínez,Cristian Romero
+Nicolás González,Gerónimo Rulli,Julián Álvarez,Ángel Correa,Cristian Romero
+Nahuel Molina,Ángel Di María,Paulo Dybala,Julián Álvarez,Lisandro Martínez,Exequiel Palacios
+Ángel Di María,Lucas Ocampos,Guido Rodríguez,Lautaro Martínez,Thiago Almada,Cristian Romero
+Giovani Lo Celso,Nicolás González,Jeremías Conan Ledesma,Alexis Mac Allister,Gerónimo Rulli,Emiliano Buendía,Ángel Correa,Exequiel Palacios
+Nicolás González,Nicolás Tagliafico,Alexis Mac Allister,Rodrigo Javier De Paul,Juan Foyth,Lisandro Martínez
+Nahuel Molina,Alexis Mac Allister,Valentin Castellanos,Emiliano Buendía,Guido Rodríguez,Cristian Romero
+Ángel Di María,Nahuel Molina,Guido Rodríguez
+Nahuel Molina,Ángel Di María,Paulo Dybala,Emiliano Martínez,Gerónimo Rulli
+Enzo Fernández,Ángel Di María,Valentin Castellanos,Mauro Icardi,Emiliano Buendía,Lautaro Martínez,Thiago Almada,Cristian Romero
+Ángel Correa,Enzo Fernández,Giovani Lo Celso,Lucas Ocampos,Alexis Mac Allister,Julián Álvarez,Facundo Medina,Lautaro Martínez,Cristian Romero
+Lautaro Martínez,Nicolás González,Ezequiel Ávila
+Enzo Fernández,Nicolás Tagliafico,Erik Lamela,Thiago Almada,Cristian Romero
+Marcos Acuña,Nicolás González,Gerónimo Rulli,Valentin Castellanos,Julián Álvarez,Mauro Icardi,Lautaro Martínez
+Erik Lamela,Nicolás González,Rodrigo Javier De Paul,Julián Álvarez,Mauro Icardi,Lautaro Martínez
+Nahuel Molina,Emiliano Martínez,Nicolás Otamendi,Facundo Medina,Cristian Romero
+Facundo Medina,Lisandro Martínez,Rodrigo Javier De Paul,Exequiel Palacios
+Nahuel Molina,Giovani Lo Celso,Ángel Di María,Lucas Ocampos,Emiliano Martínez,Ezequiel Ávila,Valentin Castellanos,Mauro Icardi,Exequiel Palacios
+Rodrigo Javier De Paul,Alexis Mac Allister,Gerónimo Rulli,Valentin Castellanos,Julián Álvarez
+Giovani Lo Celso,Nicolás González,Paulo Dybala,Valentin Castellanos,Lautaro Martínez,Exequiel Palacios
+Marcos Acuña,Giovani Lo Celso,Nicolás Tagliafico,Nicolás Otamendi,Emiliano Martínez,Ángel Correa,Lisandro Martínez,Thiago Almada
+Rodrigo Javier De Paul,Ángel Correa,Nicolás González,Lucas Ocampos
+Nicolás González,Jeremías Conan Ledesma,Alexis Mac Allister,Juan Foyth,Valentin Castellanos,Mauro Icardi,Ángel Correa,Lisandro Martínez,Exequiel Palacios
+Nahuel Molina,Ángel Correa,Enzo Fernández,Paulo Dybala,Facundo Medina
+Marcos Acuña,Juan Foyth,Gerónimo Rulli,Guido Rodríguez,Emiliano Buendía,Facundo Medina,Thiago Almada
+Ángel Di María,Emiliano Martínez,Valentin Castellanos,Ángel Correa,Lautaro Martínez,Cristian Romero
+Giovani Lo Celso,Jeremías Conan Ledesma,Nicolás Tagliafico,Julián Álvarez,Cristian Romero
+Enzo Fernández,Ángel Di María,Nicolás Tagliafico,Nicolás Otamendi,Mauro Icardi,Emiliano Buendía,Ángel Correa,Thiago Almada,Exequiel Palacios
+Ángel Correa,Gerónimo Rulli,Facundo Medina
+Giovani Lo Celso,Lucas Ocampos,Lisandro Martínez,Valentin Castellanos,Thiago Almada,Erik Lamela,Guido Rodríguez
+Enzo Fernández,Nicolás González,Nicolás Tagliafico,Alexis Mac Allister,Paulo Dybala,Mauro Icardi,Ángel Correa,Erik Lamela
+Enzo Fernández,Giovani Lo Celso,Nicolás González,Valentin Castellanos,Julián Álvarez,Ángel Correa,Ezequiel Ávila
+Nahuel Molina,Lucas Ocampos,Alexis Mac Allister,Lisandro Martínez,Thiago Almada
+Nahuel Molina,Valentin Castellanos,Jeremías Conan Ledesma
+Ángel Di María,Lucas Ocampos,Juan Foyth,Julián Álvarez,Thiago Almada,Guido Rodríguez
+Nahuel Molina,Marcos Acuña,Nicolás González,Paulo Dybala,Juan Foyth,Gerónimo Rulli,Valentin Castellanos,Julián Álvarez,Mauro Icardi,Facundo Medina
+Paulo Dybala,Exequiel Palacios,Nicolás Tagliafico
+Emiliano Martínez,Enzo Fernández,Emiliano Buendía
+Enzo Fernández,Giovani Lo Celso,Ángel Di María,Lucas Ocampos,Jeremías Conan Ledesma,Gerónimo Rulli,Exequiel Palacios,Lisandro Martínez,Ezequiel Ávila
+Enzo Fernández,Ángel Di María,Paulo Dybala,Emiliano Martínez,Juan Foyth,Valentin Castellanos,Julián Álvarez,Guido Rodríguez
+Enzo Fernández,Jeremías Conan Ledesma,Juan Foyth,Mauro Icardi,Erik Lamela,Thiago Almada,Cristian Romero
+Rodrigo Javier De Paul,Enzo Fernández,Jeremías Conan Ledesma,Ezequiel Ávila
+Marcos Acuña,Nicolás Tagliafico,Emiliano Martínez,Paulo Dybala,Juan Foyth,Gerónimo Rulli,Facundo Medina,Erik Lamela
+Emiliano Martínez,Paulo Dybala,Valentin Castellanos,Julián Álvarez,Cristian Romero
+Marcos Acuña,Ángel Di María,Jeremías Conan Ledesma,Rodrigo Javier De Paul,Juan Foyth,Valentin Castellanos,Julián Álvarez,Mauro Icardi,Erik Lamela,Guido Rodríguez
+Lucas Ocampos,Guido Rodríguez,Julián Álvarez,Mauro Icardi,Thiago Almada
+Nicolás González,Gerónimo Rulli,Emiliano Buendía,Ángel Correa,Lautaro Martínez,Cristian Romero,Facundo Medina
+Marcos Acuña,Enzo Fernández,Nicolás Tagliafico,Juan Foyth,Gerónimo Rulli,Julián Álvarez,Ángel Correa,Lisandro Martínez,Guido Rodríguez
+Nicolás Tagliafico,Rodrigo Javier De Paul,Emiliano Buendía,Ángel Correa,Lisandro Martínez,Cristian Romero
+Nahuel Molina,Giovani Lo Celso,Nicolás Tagliafico,Nicolás Otamendi,Gerónimo Rulli,Julián Álvarez,Lautaro Martínez,Thiago Almada
+Giovani Lo Celso,Ángel Di María,Gerónimo Rulli,Valentin Castellanos,Facundo Medina,Lautaro Martínez,Guido Rodríguez
+Marcos Acuña,Giovani Lo Celso,Alexis Mac Allister,Lisandro Martínez,Cristian Romero
+Nahuel Molina,Ángel Di María,Lucas Ocampos,Jeremías Conan Ledesma,Juan Foyth,Valentin Castellanos,Mauro Icardi,Cristian Romero
+Marcos Acuña,Jeremías Conan Ledesma,Paulo Dybala,Rodrigo Javier De Paul,Julián Álvarez,Mauro Icardi,Thiago Almada,Guido Rodríguez
+Nahuel Molina,Jeremías Conan Ledesma,Emiliano Martínez,Nicolás Tagliafico,Gerónimo Rulli,Erik Lamela,Guido Rodríguez,Exequiel Palacios
+Marcos Acuña,Valentin Castellanos,Mauro Icardi,Emiliano Martínez
+Marcos Acuña,Ángel Di María,Nicolás Otamendi,Rodrigo Javier De Paul,Juan Foyth,Julián Álvarez,Erik Lamela,Ezequiel Ávila
+Ángel Di María,Jeremías Conan Ledesma,Nicolás Otamendi,Ángel Correa,Exequiel Palacios
+Nahuel Molina,Alexis Mac Allister,Lisandro Martínez,Gerónimo Rulli,Ángel Correa,Lautaro Martínez,Guido Rodríguez
+Marcos Acuña,Giovani Lo Celso,Ángel Di María,Jeremías Conan Ledesma,Emiliano Martínez,Nicolás Otamendi,Lautaro Martínez
+Nicolás Otamendi,Erik Lamela,Cristian Romero,Nicolás Tagliafico
+Marcos Acuña,Alexis Mac Allister,Emiliano Buendía,Facundo Medina,Lautaro Martínez
+Enzo Fernández,Emiliano Martínez,Nicolás Otamendi,Juan Foyth,Valentin Castellanos,Emiliano Buendía
+Nahuel Molina,Guido Rodríguez,Cristian Romero
+Nicolás Otamendi,Lisandro Martínez,Juan Foyth,Alexis Mac Allister
+Marcos Acuña,Emiliano Martínez,Rodrigo Javier De Paul,Paulo Dybala,Lisandro Martínez,Valentin Castellanos,Emiliano Buendía,Ángel Correa,Lautaro Martínez
+Thiago Almada,Mauro Icardi,Ezequiel Ávila
+Ángel Correa,Lisandro Martínez,Giovani Lo Celso
+Nahuel Molina,Lucas Ocampos,Emiliano Martínez,Gerónimo Rulli,Lautaro Martínez,Cristian Romero
+Giovani Lo Celso,Erik Lamela,Nicolás González,Mauro Icardi,Ángel Correa,Lisandro Martínez,Facundo Medina,Thiago Almada,Exequiel Palacios
+Rodrigo Javier De Paul,Erik Lamela,Enzo Fernández,Ángel Di María
+Nahuel Molina,Giovani Lo Celso,Nicolás González,Mauro Icardi,Guido Rodríguez,Cristian Romero
+Ángel Di María,Lucas Ocampos,Nicolás Tagliafico,Juan Foyth,Julián Álvarez,Lisandro Martínez,Exequiel Palacios
+Rodrigo Javier De Paul,Lisandro Martínez,Juan Foyth,Paulo Dybala
+Marcos Acuña,Julián Álvarez,Paulo Dybala
+Nahuel Molina,Ángel Di María,Giovani Lo Celso,Paulo Dybala,Alexis Mac Allister,Gerónimo Rulli,Facundo Medina,Guido Rodríguez
+Nicolás Tagliafico,Jeremías Conan Ledesma,Emiliano Buendía
+Marcos Acuña,Enzo Fernández,Nicolás González,Paulo Dybala,Emiliano Buendía,Lautaro Martínez,Guido Rodríguez
+Enzo Fernández,Emiliano Martínez,Rodrigo Javier De Paul,Nicolás Tagliafico,Lisandro Martínez,Juan Foyth,Gerónimo Rulli,Emiliano Buendía,Erik Lamela,Cristian Romero
+Nahuel Molina,Erik Lamela,Rodrigo Javier De Paul,Juan Foyth,Ángel Correa,Lisandro Martínez
+Enzo Fernández,Guido Rodríguez,Julián Álvarez,Nicolás González
+Nahuel Molina,Giovani Lo Celso,Ángel Di María,Jeremías Conan Ledesma,Rodrigo Javier De Paul
+Nahuel Molina,Nicolás González,Lisandro Martínez,Guido Rodríguez,Exequiel Palacios
+Marcos Acuña,Ángel Di María,Giovani Lo Celso,Jeremías Conan Ledesma,Facundo Medina,Ezequiel Ávila
+Giovani Lo Celso,Lucas Ocampos,Jeremías Conan Ledesma,Alexis Mac Allister,Nicolás Otamendi,Juan Foyth,Gerónimo Rulli,Ángel Correa,Erik Lamela
+Nahuel Molina,Marcos Acuña,Giovani Lo Celso,Nicolás Tagliafico,Nicolás Otamendi,Gerónimo Rulli,Emiliano Buendía,Ángel Correa
+Erik Lamela,Thiago Almada
+Nahuel Molina,Enzo Fernández,Giovani Lo Celso,Jeremías Conan Ledesma,Emiliano Martínez,Alexis Mac Allister,Mauro Icardi,Exequiel Palacios
+Ángel Correa,Lautaro Martínez,Julián Álvarez,Emiliano Martínez
+Juan Foyth,Gerónimo Rulli,Julián Álvarez,Mauro Icardi,Lisandro Martínez
+Giovani Lo Celso,Nicolás González,Nicolás Tagliafico,Nicolás Otamendi,Alexis Mac Allister,Emiliano Buendía,Ángel Correa,Lisandro Martínez,Guido Rodríguez,Cristian Romero
+Nicolás Otamendi,Enzo Fernández,Juan Foyth
+Marcos Acuña,Alexis Mac Allister,Juan Foyth,Ezequiel Ávila,Julián Álvarez,Mauro Icardi,Thiago Almada,Cristian Romero,Exequiel Palacios
+Nahuel Molina,Enzo Fernández,Giovani Lo Celso,Ángel Di María,Facundo Medina,Lisandro Martínez,Ezequiel Ávila
+Lucas Ocampos,Emiliano Buendía,Erik Lamela,Thiago Almada,Ezequiel Ávila
+Nicolás González,Rodrigo Javier De Paul,Juan Foyth,Gerónimo Rulli,Thiago Almada
+Facundo Medina,Ángel Di María,Gerónimo Rulli,Paulo Dybala
+Enzo Fernández,Emiliano Martínez,Nicolás Otamendi,Nicolás Tagliafico,Rodrigo Javier De Paul,Julián Álvarez,Facundo Medina,Exequiel Palacios
+Nahuel Molina,Jeremías Conan Ledesma,Lucas Ocampos,Rodrigo Javier De Paul,Thiago Almada,Exequiel Palacios
+Nahuel Molina,Ángel Di María,Giovani Lo Celso,Lucas Ocampos,Jeremías Conan Ledesma,Juan Foyth,Gerónimo Rulli,Julián Álvarez,Erik Lamela,Exequiel Palacios
+Alexis Mac Allister,Julián Álvarez,Lucas Ocampos,Paulo Dybala
+Ángel Di María,Lucas Ocampos,Gerónimo Rulli,Ángel Correa,Erik Lamela,Thiago Almada
+Lucas Ocampos,Jeremías Conan Ledesma,Valentin Castellanos,Julián Álvarez,Ángel Correa,Cristian Romero,Ezequiel Ávila
+Facundo Medina,Erik Lamela,Emiliano Buendía,Emiliano Martínez
+Ángel Di María,Nicolás Otamendi,Valentin Castellanos,Julián Álvarez,Mauro Icardi,Emiliano Buendía,Lisandro Martínez,Cristian Romero,Exequiel Palacios
+Julián Álvarez,Cristian Romero,Paulo Dybala
+Nicolás Otamendi,Ángel Di María,Alexis Mac Allister,Emiliano Buendía
+Ángel Di María,Nicolás Tagliafico,Alexis Mac Allister,Gerónimo Rulli,Facundo Medina,Cristian Romero
+Enzo Fernández,Nicolás González,Nicolás Tagliafico,Mauro Icardi,Ezequiel Ávila
+Giovani Lo Celso,Nicolás González,Lucas Ocampos,Nicolás Tagliafico,Rodrigo Javier De Paul,Ezequiel Ávila,Lisandro Martínez,Exequiel Palacios
+Marcos Acuña,Jeremías Conan Ledesma,Lucas Ocampos,Rodrigo Javier De Paul,Alexis Mac Allister,Paulo Dybala,Valentin Castellanos,Ángel Correa,Cristian Romero
+Paulo Dybala,Nicolás Otamendi,Emiliano Buendía,Facundo Medina,Ezequiel Ávila
+Marcos Acuña,Giovani Lo Celso,Emiliano Martínez,Thiago Almada,Emiliano Buendía,Guido Rodríguez,Exequiel Palacios
+Marcos Acuña,Nicolás González,Nicolás Otamendi,Valentin Castellanos,Emiliano Buendía,Erik Lamela
+Nahuel Molina,Enzo Fernández,Giovani Lo Celso,Nicolás Otamendi,Gerónimo Rulli,Mauro Icardi,Emiliano Buendía,Erik Lamela,Cristian Romero
+Lautaro Martínez,Nicolás Tagliafico,Jeremías Conan Ledesma,Emiliano Buendía
+Exequiel Palacios,Lucas Ocampos,Emiliano Martínez
+Nahuel Molina,Valentin Castellanos,Nicolás González,Ezequiel Ávila
+Marcos Acuña,Ángel Di María,Paulo Dybala,Gerónimo Rulli,Emiliano Buendía,Erik Lamela,Thiago Almada,Ezequiel Ávila
+Nahuel Molina,Giovani Lo Celso,Ángel Di María,Nicolás González,Jeremías Conan Ledesma,Nicolás Otamendi,Cristian Romero
+Erik Lamela,Enzo Fernández,Julián Álvarez
+Rodrigo Javier De Paul,Lautaro Martínez,Emiliano Buendía,Paulo Dybala
+Rodrigo Javier De Paul,Marcos Acuña,Enzo Fernández,Guido Rodríguez
+Nahuel Molina,Enzo Fernández,Nicolás Otamendi,Juan Foyth,Valentin Castellanos,Emiliano Buendía,Erik Lamela,Thiago Almada
+Nahuel Molina,Marcos Acuña,Nicolás González,Lucas Ocampos,Paulo Dybala,Nicolás Tagliafico,Gerónimo Rulli,Lautaro Martínez
+Marcos Acuña,Giovani Lo Celso,Juan Foyth,Gerónimo Rulli,Julián Álvarez,Lautaro Martínez
+Marcos Acuña,Enzo Fernández,Ángel Di María,Paulo Dybala,Guido Rodríguez
+Nicolás Otamendi,Rodrigo Javier De Paul,Lisandro Martínez,Thiago Almada
+Marcos Acuña,Guido Rodríguez,Nicolás Tagliafico
+Marcos Acuña,Enzo Fernández,Nicolás Tagliafico,Emiliano Martínez,Mauro Icardi,Erik Lamela
+Marcos Acuña,Enzo Fernández,Ángel Di María,Emiliano Martínez,Nicolás Otamendi,Mauro Icardi,Facundo Medina,Erik Lamela
+Alexis Mac Allister,Thiago Almada,Mauro Icardi,Facundo Medina
+Emiliano Martínez,Rodrigo Javier De Paul,Paulo Dybala,Nicolás Tagliafico,Nicolás Otamendi,Facundo Medina,Lautaro Martínez
+Marcos Acuña,Ángel Di María,Lucas Ocampos,Emiliano Martínez,Nicolás Otamendi,Mauro Icardi,Ángel Correa
+Nicolás González,Alexis Mac Allister,Gerónimo Rulli,Ángel Correa,Ezequiel Ávila
+Paulo Dybala,Nicolás Otamendi,Gerónimo Rulli,Guido Rodríguez,Cristian Romero
+Nahuel Molina,Julián Álvarez,Mauro Icardi
+Nicolás González,Nicolás Tagliafico,Rodrigo Javier De Paul,Juan Foyth,Gerónimo Rulli,Ángel Correa,Facundo Medina
+Juan Foyth,Julián Álvarez,Mauro Icardi,Ángel Correa,Guido Rodríguez
+Nahuel Molina,Marcos Acuña,Jeremías Conan Ledesma,Paulo Dybala,Emiliano Buendía,Facundo Medina,Cristian Romero,Exequiel Palacios
+Giovani Lo Celso,Lucas Ocampos,Jeremías Conan Ledesma,Nicolás Otamendi,Alexis Mac Allister,Ángel Correa,Lisandro Martínez,Cristian Romero
+Alexis Mac Allister,Erik Lamela,Julián Álvarez,Paulo Dybala
+Paulo Dybala,Lucas Ocampos,Emiliano Martínez
+Enzo Fernández,Paulo Dybala,Alexis Mac Allister,Gerónimo Rulli,Ángel Correa,Ezequiel Ávila
+Ángel Di María,Nicolás González,Emiliano Martínez,Gerónimo Rulli,Valentin Castellanos,Thiago Almada,Emiliano Buendía,Guido Rodríguez,Cristian Romero
+Marcos Acuña,Giovani Lo Celso,Nicolás Tagliafico,Alexis Mac Allister,Juan Foyth,Julián Álvarez,Emiliano Buendía
+Nicolás Tagliafico,Rodrigo Javier De Paul,Juan Foyth,Emiliano Buendía,Ángel Correa,Lisandro Martínez,Ezequiel Ávila
+Nahuel Molina,Enzo Fernández,Nicolás González,Juan Foyth,Valentin Castellanos
+Jeremías Conan Ledesma,Gerónimo Rulli,Valentin Castellanos,Guido Rodríguez,Emiliano Buendía,Erik Lamela,Thiago Almada
+Lucas Ocampos,Ezequiel Ávila,Exequiel Palacios,Ángel Correa,Facundo Medina
+Alexis Mac Allister,Lucas Ocampos,Emiliano Martínez
+Nahuel Molina,Jeremías Conan Ledesma,Nicolás Tagliafico,Juan Foyth,Valentin Castellanos,Facundo Medina,Guido Rodríguez
+Rodrigo Javier De Paul,Thiago Almada,Facundo Medina,Lisandro Martínez,Lautaro Martínez,Exequiel Palacios
+Giovani Lo Celso,Lucas Ocampos,Paulo Dybala
+Nahuel Molina,Nicolás González,Rodrigo Javier De Paul,Julián Álvarez,Exequiel Palacios
+Nicolás Otamendi,Rodrigo Javier De Paul,Ángel Di María
+Rodrigo Javier De Paul,Mauro Icardi,Exequiel Palacios
+Rodrigo Javier De Paul,Juan Foyth,Julián Álvarez,Ángel Correa,Guido Rodríguez,Exequiel Palacios
+Enzo Fernández,Giovani Lo Celso,Ángel Di María,Emiliano Martínez,Valentin Castellanos,Exequiel Palacios,Cristian Romero,Ezequiel Ávila
+Paulo Dybala,Nicolás Otamendi,Rodrigo Javier De Paul,Mauro Icardi,Facundo Medina,Ezequiel Ávila
+Giovani Lo Celso,Ángel Di María,Rodrigo Javier De Paul,Nicolás Otamendi,Lisandro Martínez,Juan Foyth,Lautaro Martínez,Ezequiel Ávila
+Nahuel Molina,Nicolás González,Valentin Castellanos,Emiliano Buendía,Thiago Almada
+Marcos Acuña,Nicolás Otamendi,Mauro Icardi,Emiliano Buendía,Ángel Correa,Guido Rodríguez
+Marcos Acuña,Enzo Fernández,Ángel Di María,Nicolás González,Nicolás Otamendi,Juan Foyth,Thiago Almada,Cristian Romero,Ezequiel Ávila
+Nicolás González,Nicolás Tagliafico,Nicolás Otamendi,Emiliano Martínez,Guido Rodríguez,Cristian Romero
+Nahuel Molina,Enzo Fernández,Nicolás González,Paulo Dybala,Juan Foyth,Julián Álvarez,Ángel Correa
+Marcos Acuña,Rodrigo Javier De Paul,Nicolás Otamendi,Juan Foyth,Valentin Castellanos,Emiliano Buendía,Facundo Medina,Lisandro Martínez,Guido Rodríguez
+Nicolás Tagliafico,Nicolás Otamendi,Juan Foyth,Valentin Castellanos,Emiliano Buendía,Facundo Medina,Erik Lamela
+Nahuel Molina,Nicolás González,Lucas Ocampos,Nicolás Tagliafico,Alexis Mac Allister,Erik Lamela,Thiago Almada,Cristian Romero,Ezequiel Ávila
+Nahuel Molina,Guido Rodríguez,Julián Álvarez,Emiliano Buendía
+Enzo Fernández,Thiago Almada,Mauro Icardi,Facundo Medina,Lisandro Martínez,Guido Rodríguez
+Marcos Acuña,Erik Lamela,Paulo Dybala,Alexis Mac Allister,Lautaro Martínez
+Marcos Acuña,Nicolás Otamendi,Valentin Castellanos,Julián Álvarez,Lisandro Martínez,Lautaro Martínez,Ezequiel Ávila
+Marcos Acuña,Rodrigo Javier De Paul,Gerónimo Rulli,Julián Álvarez,Emiliano Buendía,Erik Lamela,Thiago Almada
+Nahuel Molina,Jeremías Conan Ledesma,Emiliano Martínez,Paulo Dybala,Nicolás Tagliafico,Lisandro Martínez,Cristian Romero
+Enzo Fernández,Ángel Di María,Nicolás Tagliafico,Rodrigo Javier De Paul,Paulo Dybala,Facundo Medina,Lautaro Martínez,Guido Rodríguez
+Lisandro Martínez,Lautaro Martínez,Mauro Icardi
+Nahuel Molina,Enzo Fernández,Lisandro Martínez,Juan Foyth,Erik Lamela,Guido Rodríguez
+Lisandro Martínez,Juan Foyth,Paulo Dybala
+Enzo Fernández,Ángel Di María,Nicolás González,Emiliano Martínez,Alexis Mac Allister,Paulo Dybala,Lisandro Martínez,Ezequiel Ávila
+Nahuel Molina,Lisandro Martínez,Juan Foyth,Gerónimo Rulli,Valentin Castellanos,Mauro Icardi,Ángel Correa,Lautaro Martínez,Exequiel Palacios
+Enzo Fernández,Nicolás González,Mauro Icardi,Guido Rodríguez,Cristian Romero,Ezequiel Ávila
+Marcos Acuña,Giovani Lo Celso,Erik Lamela,Nicolás González,Jeremías Conan Ledesma,Valentin Castellanos,Facundo Medina,Lisandro Martínez,Cristian Romero
+Enzo Fernández,Emiliano Martínez,Alexis Mac Allister,Juan Foyth,Emiliano Buendía,Erik Lamela,Thiago Almada,Ezequiel Ávila
+Marcos Acuña,Nicolás González,Nicolás Tagliafico,Alexis Mac Allister,Julián Álvarez,Thiago Almada,Cristian Romero,Ezequiel Ávila
+Enzo Fernández,Ángel Di María,Jeremías Conan Ledesma,Gerónimo Rulli,Valentin Castellanos,Mauro Icardi,Exequiel Palacios
+Ángel Correa,Marcos Acuña,Lucas Ocampos,Valentin Castellanos,Julián Álvarez,Mauro Icardi,Facundo Medina,Cristian Romero
+Marcos Acuña,Jeremías Conan Ledesma,Nicolás Tagliafico,Juan Foyth,Thiago Almada,Cristian Romero
+Lucas Ocampos,Alexis Mac Allister,Thiago Almada,Emiliano Buendía,Facundo Medina,Guido Rodríguez
+Nicolás González,Guido Rodríguez,Mauro Icardi,Emiliano Buendía,Thiago Almada
+Ángel Correa,Juan Foyth,Facundo Medina
+Nahuel Molina,Enzo Fernández,Nicolás González,Nicolás Tagliafico,Nicolás Otamendi,Ángel Correa,Cristian Romero,Ezequiel Ávila
+Rodrigo Javier De Paul,Marcos Acuña,Nicolás Otamendi,Cristian Romero
+Ángel Di María,Nicolás González,Jeremías Conan Ledesma,Lucas Ocampos,Nicolás Otamendi,Emiliano Martínez,Ángel Correa,Guido Rodríguez,Facundo Medina
+Marcos Acuña,Ángel Di María,Giovani Lo Celso,Juan Foyth,Mauro Icardi,Facundo Medina,Cristian Romero
+Nicolás Otamendi,Nicolás Tagliafico
+Rodrigo Javier De Paul,Marcos Acuña,Juan Foyth,Exequiel Palacios
+Marcos Acuña,Lucas Ocampos,Nicolás Tagliafico,Jeremías Conan Ledesma,Guido Rodríguez,Emiliano Buendía,Facundo Medina,Thiago Almada,Exequiel Palacios
+Gerónimo Rulli,Enzo Fernández,Julián Álvarez,Cristian Romero
+Nicolás González,Paulo Dybala,Rodrigo Javier De Paul,Emiliano Martínez,Juan Foyth,Gerónimo Rulli,Lautaro Martínez,Guido Rodríguez,Exequiel Palacios
+Nahuel Molina,Marcos Acuña,Erik Lamela,Lucas Ocampos,Jeremías Conan Ledesma,Emiliano Buendía,Lisandro Martínez
+Giovani Lo Celso,Nicolás González,Emiliano Martínez,Alexis Mac Allister,Juan Foyth,Emiliano Buendía,Thiago Almada
+Cristian Romero,Mauro Icardi,Nicolás Tagliafico
+Enzo Fernández,Ángel Di María,Nicolás Tagliafico,Rodrigo Javier De Paul,Paulo Dybala,Gerónimo Rulli,Ezequiel Ávila,Exequiel Palacios
+Valentin Castellanos,Giovani Lo Celso,Jeremías Conan Ledesma
+Nahuel Molina,Giovani Lo Celso,Jeremías Conan Ledesma,Rodrigo Javier De Paul,Ángel Correa,Exequiel Palacios
+Facundo Medina,Valentin Castellanos,Giovani Lo Celso,Ezequiel Ávila
+Giovani Lo Celso,Lucas Ocampos,Paulo Dybala,Rodrigo Javier De Paul,Juan Foyth,Gerónimo Rulli,Exequiel Palacios
+Nahuel Molina,Ángel Di María,Lucas Ocampos,Jeremías Conan Ledesma,Paulo Dybala,Rodrigo Javier De Paul,Julián Álvarez,Guido Rodríguez
+Marcos Acuña,Ángel Di María,Erik Lamela,Lucas Ocampos,Emiliano Buendía,Facundo Medina,Lisandro Martínez
+Marcos Acuña,Nicolás González,Juan Foyth,Valentin Castellanos,Julián Álvarez,Ángel Correa
+Enzo Fernández,Julián Álvarez,Lucas Ocampos
+Facundo Medina,Enzo Fernández,Rodrigo Javier De Paul
+Enzo Fernández,Nicolás Otamendi,Ezequiel Ávila,Valentin Castellanos,Lautaro Martínez,Exequiel Palacios
+Enzo Fernández,Paulo Dybala,Lisandro Martínez,Lautaro Martínez,Ezequiel Ávila
+Marcos Acuña,Enzo Fernández,Jeremías Conan Ledesma,Alexis Mac Allister,Valentin Castellanos,Thiago Almada,Erik Lamela,Guido Rodríguez,Exequiel Palacios
+Marcos Acuña,Enzo Fernández,Lucas Ocampos,Paulo Dybala,Juan Foyth,Valentin Castellanos,Ángel Correa,Guido Rodríguez,Cristian Romero
+Nahuel Molina,Ángel Correa,Lucas Ocampos,Rodrigo Javier De Paul,Nicolás Otamendi,Facundo Medina,Lisandro Martínez,Cristian Romero,Exequiel Palacios
+Enzo Fernández,Emiliano Martínez,Nicolás Otamendi,Gerónimo Rulli,Lautaro Martínez,Ezequiel Ávila
+Marcos Acuña,Gerónimo Rulli,Julián Álvarez,Emiliano Buendía,Thiago Almada
+Lisandro Martínez,Thiago Almada,Julián Álvarez,Gerónimo Rulli
+Lisandro Martínez,Marcos Acuña,Julián Álvarez,Exequiel Palacios
+Alexis Mac Allister,Nicolás Otamendi,Valentin Castellanos,Emiliano Buendía,Lautaro Martínez,Guido Rodríguez
+Nahuel Molina,Enzo Fernández,Emiliano Martínez,Nicolás Otamendi,Alexis Mac Allister,Lisandro Martínez,Ángel Correa,Erik Lamela
+Lucas Ocampos,Paulo Dybala,Jeremías Conan Ledesma,Gerónimo Rulli,Emiliano Buendía,Erik Lamela
+Paulo Dybala,Rodrigo Javier De Paul,Nicolás Otamendi,Gerónimo Rulli,Mauro Icardi,Exequiel Palacios
+Lucas Ocampos,Jeremías Conan Ledesma,Alexis Mac Allister,Nicolás Tagliafico,Valentin Castellanos,Ángel Correa,Lisandro Martínez,Thiago Almada
+Erik Lamela,Giovani Lo Celso,Mauro Icardi,Lucas Ocampos
+Giovani Lo Celso,Erik Lamela,Nicolás González,Lucas Ocampos,Nicolás Otamendi,Lisandro Martínez
+Nahuel Molina,Marcos Acuña,Ángel Di María,Lucas Ocampos,Jeremías Conan Ledesma,Mauro Icardi,Erik Lamela
+Ángel Di María,Gerónimo Rulli,Julián Álvarez,Lautaro Martínez,Guido Rodríguez
+Erik Lamela,Thiago Almada,Ezequiel Ávila,Emiliano Martínez
+Enzo Fernández,Giovani Lo Celso,Alexis Mac Allister,Gerónimo Rulli,Ángel Correa,Exequiel Palacios
+Nahuel Molina,Emiliano Martínez,Alexis Mac Allister,Mauro Icardi,Lautaro Martínez,Thiago Almada
+Nahuel Molina,Marcos Acuña,Enzo Fernández,Emiliano Martínez,Mauro Icardi,Lisandro Martínez,Ezequiel Ávila
+Marcos Acuña,Lisandro Martínez,Julián Álvarez
+Ángel Di María,Nicolás Tagliafico,Exequiel Palacios
+Alexis Mac Allister,Gerónimo Rulli,Valentin Castellanos,Ángel Correa,Lautaro Martínez,Facundo Medina,Cristian Romero,Exequiel Palacios
+Ángel Di María,Lucas Ocampos,Alexis Mac Allister,Mauro Icardi,Ángel Correa,Lisandro Martínez,Guido Rodríguez,Exequiel Palacios
+Nahuel Molina,Nicolás Otamendi,Exequiel Palacios,Mauro Icardi,Emiliano Buendía,Lisandro Martínez,Guido Rodríguez,Ezequiel Ávila
+Lautaro Martínez,Ángel Di María,Jeremías Conan Ledesma
+Giovani Lo Celso,Ángel Di María,Nicolás González,Lucas Ocampos,Emiliano Martínez,Alexis Mac Allister,Emiliano Buendía,Lisandro Martínez
+Nahuel Molina,Lautaro Martínez,Nicolás González,Jeremías Conan Ledesma,Nicolás Tagliafico,Nicolás Otamendi,Rodrigo Javier De Paul,Facundo Medina,Erik Lamela,Guido Rodríguez
+Marcos Acuña,Ángel Di María,Lucas Ocampos,Paulo Dybala,Nicolás Tagliafico,Mauro Icardi,Facundo Medina,Erik Lamela
+Nahuel Molina,Nicolás González,Nicolás Otamendi,Valentin Castellanos,Cristian Romero
+Marcos Acuña,Nicolás González,Nicolás Tagliafico,Valentin Castellanos,Julián Álvarez,Ángel Correa,Erik Lamela,Lautaro Martínez
+Nahuel Molina,Ángel Di María,Rodrigo Javier De Paul,Mauro Icardi,Ángel Correa,Exequiel Palacios
+Erik Lamela,Emiliano Martínez,Nicolás González,Emiliano Buendía
+Ángel Di María,Nicolás González,Lucas Ocampos,Emiliano Martínez,Nicolás Otamendi,Lisandro Martínez
+Lautaro Martínez,Valentin Castellanos,Jeremías Conan Ledesma,Mauro Icardi
+Rodrigo Javier De Paul,Juan Foyth,Ezequiel Ávila,Emiliano Buendía,Facundo Medina,Guido Rodríguez,Exequiel Palacios
+Rodrigo Javier De Paul,Nicolás Tagliafico,Emiliano Buendía
+Marcos Acuña,Enzo Fernández,Nicolás González,Emiliano Martínez,Paulo Dybala,Julián Álvarez,Erik Lamela
+Guido Rodríguez,Nicolás González,Jeremías Conan Ledesma,Emiliano Buendía
+Ángel Di María,Paulo Dybala,Alexis Mac Allister,Rodrigo Javier De Paul,Gerónimo Rulli,Mauro Icardi,Ángel Correa
+Lisandro Martínez,Thiago Almada,Guido Rodríguez,Ezequiel Ávila
+Nahuel Molina,Nicolás Tagliafico,Valentin Castellanos,Julián Álvarez,Emiliano Buendía,Lautaro Martínez,Exequiel Palacios
+Ángel Di María,Lucas Ocampos,Emiliano Martínez,Guido Rodríguez,Lautaro Martínez,Thiago Almada,Ezequiel Ávila
+Nahuel Molina,Alexis Mac Allister,Lisandro Martínez,Valentin Castellanos,Julián Álvarez,Lautaro Martínez,Thiago Almada
+Jeremías Conan Ledesma,Paulo Dybala,Lucas Ocampos,Valentin Castellanos,Julián Álvarez,Mauro Icardi,Facundo Medina
+Enzo Fernández,Valentin Castellanos,Julián Álvarez,Facundo Medina,Erik Lamela
+Nahuel Molina,Marcos Acuña,Ángel Di María,Erik Lamela,Nicolás Tagliafico,Facundo Medina,Lisandro Martínez
+Nahuel Molina,Ángel Di María,Nicolás Tagliafico,Juan Foyth,Julián Álvarez,Ángel Correa,Lautaro Martínez,Guido Rodríguez,Facundo Medina
+Giovani Lo Celso,Nicolás González,Nicolás Otamendi,Alexis Mac Allister,Julián Álvarez
+Marcos Acuña,Jeremías Conan Ledesma,Emiliano Martínez,Nicolás Otamendi,Valentin Castellanos,Lautaro Martínez,Ezequiel Ávila
+Paulo Dybala,Rodrigo Javier De Paul,Lisandro Martínez,Mauro Icardi,Emiliano Buendía,Facundo Medina,Lautaro Martínez,Ezequiel Ávila
+Marcos Acuña,Lucas Ocampos,Rodrigo Javier De Paul,Erik Lamela,Ezequiel Ávila
+Rodrigo Javier De Paul,Thiago Almada,Alexis Mac Allister,Exequiel Palacios
+Nahuel Molina,Giovani Lo Celso,Jeremías Conan Ledesma,Paulo Dybala,Emiliano Buendía,Ángel Correa,Exequiel Palacios
+Nahuel Molina,Lautaro Martínez,Nicolás González,Nicolás Tagliafico,Rodrigo Javier De Paul,Nicolás Otamendi,Alexis Mac Allister,Juan Foyth,Erik Lamela,Guido Rodríguez
+Lucas Ocampos,Jeremías Conan Ledesma,Rodrigo Javier De Paul,Nicolás Tagliafico,Gerónimo Rulli,Emiliano Buendía,Lisandro Martínez,Exequiel Palacios
+Enzo Fernández,Ángel Di María,Alexis Mac Allister,Gerónimo Rulli,Ángel Correa,Lisandro Martínez
+Gerónimo Rulli,Valentin Castellanos,Emiliano Buendía,Guido Rodríguez,Ezequiel Ávila
+Nahuel Molina,Marcos Acuña,Enzo Fernández,Jeremías Conan Ledesma,Nicolás Tagliafico,Paulo Dybala,Gerónimo Rulli,Valentin Castellanos,Lautaro Martínez
+Paulo Dybala,Nicolás Otamendi,Juan Foyth,Julián Álvarez,Facundo Medina
+Nicolás Tagliafico,Nicolás Otamendi,Alexis Mac Allister,Rodrigo Javier De Paul,Exequiel Palacios,Ángel Correa,Ezequiel Ávila
+Nahuel Molina,Marcos Acuña,Rodrigo Javier De Paul,Exequiel Palacios,Emiliano Buendía,Ángel Correa,Lautaro Martínez,Facundo Medina
+Nahuel Molina,Rodrigo Javier De Paul,Gerónimo Rulli,Ángel Correa,Thiago Almada
+Marcos Acuña,Juan Foyth,Mauro Icardi
+Lucas Ocampos,Paulo Dybala,Alexis Mac Allister,Gerónimo Rulli,Ezequiel Ávila
+Rodrigo Javier De Paul,Nicolás González,Ezequiel Ávila
+Rodrigo Javier De Paul,Marcos Acuña,Ángel Di María,Julián Álvarez
+Nahuel Molina,Enzo Fernández,Nicolás González,Jeremías Conan Ledesma,Rodrigo Javier De Paul,Nicolás Otamendi,Gerónimo Rulli,Julián Álvarez,Emiliano Buendía
+Nahuel Molina,Lautaro Martínez,Nicolás Otamendi,Valentin Castellanos,Ángel Correa,Erik Lamela,Guido Rodríguez
+Marcos Acuña,Nicolás Otamendi,Juan Foyth,Julián Álvarez,Exequiel Palacios
+Nahuel Molina,Giovani Lo Celso,Lucas Ocampos,Nicolás Tagliafico,Nicolás Otamendi,Facundo Medina,Lisandro Martínez,Guido Rodríguez,Ezequiel Ávila
+Enzo Fernández,Nicolás González,Lucas Ocampos,Nicolás Tagliafico,Gerónimo Rulli,Julián Álvarez,Mauro Icardi,Guido Rodríguez,Exequiel Palacios
+Valentin Castellanos,Lisandro Martínez,Enzo Fernández,Paulo Dybala
+Nahuel Molina,Paulo Dybala,Valentin Castellanos,Emiliano Buendía,Facundo Medina,Lisandro Martínez,Thiago Almada
+Ángel Di María,Nicolás González,Nicolás Otamendi,Rodrigo Javier De Paul,Valentin Castellanos,Facundo Medina,Erik Lamela,Cristian Romero
+Nicolás Otamendi,Jeremías Conan Ledesma,Lucas Ocampos
+Lucas Ocampos,Paulo Dybala,Alexis Mac Allister,Gerónimo Rulli,Julián Álvarez,Emiliano Buendía,Lautaro Martínez,Exequiel Palacios
+Marcos Acuña,Enzo Fernández,Lucas Ocampos,Nicolás Otamendi,Facundo Medina,Lautaro Martínez,Thiago Almada,Exequiel Palacios
+Nicolás González,Lucas Ocampos,Gerónimo Rulli,Valentin Castellanos,Lautaro Martínez,Thiago Almada,Cristian Romero
+Ángel Di María,Gerónimo Rulli,Nicolás Tagliafico
+Ángel Correa,Lisandro Martínez,Thiago Almada,Juan Foyth
+Ángel Di María,Thiago Almada,Gerónimo Rulli
+Lisandro Martínez,Valentin Castellanos,Nicolás Tagliafico
+Marcos Acuña,Paulo Dybala,Thiago Almada,Facundo Medina,Lisandro Martínez,Guido Rodríguez
+Giovani Lo Celso,Nicolás González,Lucas Ocampos,Paulo Dybala,Alexis Mac Allister,Gerónimo Rulli,Thiago Almada,Lisandro Martínez,Guido Rodríguez
+Rodrigo Javier De Paul,Erik Lamela,Julián Álvarez
+Nicolás Tagliafico,Ezequiel Ávila,Paulo Dybala
+Nahuel Molina,Giovani Lo Celso,Nicolás Otamendi,Mauro Icardi,Facundo Medina
+Ángel Di María,Nicolás González,Nicolás Otamendi,Juan Foyth,Gerónimo Rulli,Erik Lamela,Cristian Romero,Exequiel Palacios
+Juan Foyth,Julián Álvarez,Cristian Romero,Ezequiel Ávila
+Enzo Fernández,Paulo Dybala,Juan Foyth,Gerónimo Rulli,Cristian Romero
+Gerónimo Rulli,Valentin Castellanos,Julián Álvarez,Exequiel Palacios,Lisandro Martínez,Ezequiel Ávila
+Marcos Acuña,Lautaro Martínez,Jeremías Conan Ledesma
+Marcos Acuña,Ángel Di María,Nicolás González,Paulo Dybala,Julián Álvarez,Mauro Icardi,Ángel Correa,Cristian Romero
+Marcos Acuña,Enzo Fernández,Giovani Lo Celso,Jeremías Conan Ledesma,Nicolás Otamendi,Cristian Romero
+Nicolás Otamendi,Valentin Castellanos,Cristian Romero
+Lautaro Martínez,Marcos Acuña,Nicolás Tagliafico,Ezequiel Ávila
+Ángel Correa,Nicolás Tagliafico,Ezequiel Ávila,Valentin Castellanos,Facundo Medina,Lisandro Martínez,Lautaro Martínez,Exequiel Palacios
+Giovani Lo Celso,Juan Foyth,Gerónimo Rulli,Valentin Castellanos,Cristian Romero
+Nahuel Molina,Nicolás González,Lucas Ocampos,Emiliano Martínez,Valentin Castellanos,Ángel Correa,Lautaro Martínez,Guido Rodríguez,Ezequiel Ávila
+Ángel Di María,Giovani Lo Celso,Lucas Ocampos,Nicolás Tagliafico,Gerónimo Rulli,Ezequiel Ávila,Exequiel Palacios
+Ángel Di María,Lucas Ocampos,Emiliano Buendía,Facundo Medina,Thiago Almada,Cristian Romero
+Nicolás González,Alexis Mac Allister,Nicolás Otamendi,Emiliano Buendía,Lisandro Martínez,Ezequiel Ávila
+Nicolás González,Emiliano Martínez,Valentin Castellanos,Emiliano Buendía,Ángel Correa,Thiago Almada,Exequiel Palacios
+Marcos Acuña,Nicolás González,Paulo Dybala,Rodrigo Javier De Paul,Ezequiel Ávila,Mauro Icardi,Exequiel Palacios
+Nahuel Molina,Ángel Di María,Paulo Dybala,Nicolás Tagliafico,Juan Foyth,Valentin Castellanos,Guido Rodríguez,Ángel Correa,Lisandro Martínez,Thiago Almada
+Ángel Correa,Lautaro Martínez,Ezequiel Ávila
+Jeremías Conan Ledesma,Lucas Ocampos,Nicolás Otamendi,Juan Foyth,Gerónimo Rulli,Valentin Castellanos,Emiliano Buendía,Ángel Correa,Guido Rodríguez
+Nahuel Molina,Marcos Acuña,Ángel Di María,Giovani Lo Celso,Paulo Dybala,Exequiel Palacios,Lisandro Martínez,Ezequiel Ávila
+Nahuel Molina,Ángel Di María,Lucas Ocampos,Paulo Dybala,Gerónimo Rulli,Valentin Castellanos,Lautaro Martínez,Exequiel Palacios
+Marcos Acuña,Alexis Mac Allister,Thiago Almada,Guido Rodríguez,Ezequiel Ávila
+Giovani Lo Celso,Alexis Mac Allister,Juan Foyth,Gerónimo Rulli,Valentin Castellanos,Ángel Correa,Guido Rodríguez,Ezequiel Ávila
+Enzo Fernández,Jeremías Conan Ledesma,Emiliano Martínez,Gerónimo Rulli,Emiliano Buendía,Lisandro Martínez,Thiago Almada,Cristian Romero
+Nahuel Molina,Enzo Fernández,Ezequiel Ávila
+Ángel Di María,Emiliano Martínez,Nicolás Otamendi,Gerónimo Rulli,Emiliano Buendía,Facundo Medina,Erik Lamela
+Nicolás Otamendi,Guido Rodríguez,Mauro Icardi
+Nahuel Molina,Lucas Ocampos,Paulo Dybala,Julián Álvarez,Erik Lamela,Guido Rodríguez,Exequiel Palacios
+Marcos Acuña,Ángel Di María,Paulo Dybala,Nicolás Tagliafico,Emiliano Martínez,Valentin Castellanos,Julián Álvarez,Guido Rodríguez,Exequiel Palacios
+Nahuel Molina,Nicolás Tagliafico,Nicolás Otamendi,Ezequiel Ávila,Guido Rodríguez,Julián Álvarez,Thiago Almada,Exequiel Palacios
+Rodrigo Javier De Paul,Lautaro Martínez,Julián Álvarez,Emiliano Buendía
+Enzo Fernández,Ángel Di María,Erik Lamela,Emiliano Buendía,Ángel Correa,Lautaro Martínez,Guido Rodríguez
+Erik Lamela,Jeremías Conan Ledesma,Rodrigo Javier De Paul,Alexis Mac Allister,Lautaro Martínez,Thiago Almada,Cristian Romero
+Lucas Ocampos,Nicolás Tagliafico,Paulo Dybala,Mauro Icardi,Lisandro Martínez,Cristian Romero
+Facundo Medina,Nahuel Molina,Giovani Lo Celso,Exequiel Palacios
+Nahuel Molina,Ángel Di María,Paulo Dybala,Nicolás Tagliafico,Emiliano Martínez,Gerónimo Rulli,Julián Álvarez,Mauro Icardi,Lautaro Martínez,Exequiel Palacios
+Nahuel Molina,Giovani Lo Celso,Jeremías Conan Ledesma,Nicolás Tagliafico,Nicolás Otamendi,Gerónimo Rulli,Valentin Castellanos,Thiago Almada
+Marcos Acuña,Enzo Fernández,Giovani Lo Celso,Jeremías Conan Ledesma,Alexis Mac Allister,Facundo Medina,Thiago Almada,Ezequiel Ávila
+Nahuel Molina,Marcos Acuña,Emiliano Martínez,Gerónimo Rulli,Julián Álvarez,Thiago Almada
+Nahuel Molina,Marcos Acuña,Thiago Almada,Ezequiel Ávila
+Erik Lamela,Alexis Mac Allister,Rodrigo Javier De Paul,Gerónimo Rulli,Valentin Castellanos,Julián Álvarez,Lisandro Martínez
+Lautaro Martínez,Emiliano Martínez,Nicolás González,Emiliano Buendía
+Nahuel Molina,Erik Lamela,Nicolás González,Julián Álvarez,Lautaro Martínez,Guido Rodríguez
+Jeremías Conan Ledesma,Paulo Dybala,Juan Foyth,Valentin Castellanos,Mauro Icardi,Lisandro Martínez,Guido Rodríguez,Cristian Romero
+Ángel Correa,Lautaro Martínez,Giovani Lo Celso
+Enzo Fernández,Ángel Di María,Nicolás Tagliafico,Emiliano Martínez,Julián Álvarez,Ángel Correa
+Ángel Correa,Enzo Fernández,Juan Foyth,Gerónimo Rulli,Facundo Medina
+Nahuel Molina,Gerónimo Rulli,Jeremías Conan Ledesma
+Ángel Correa,Nicolás González
+Nicolás González,Lucas Ocampos,Emiliano Martínez,Gerónimo Rulli,Mauro Icardi,Erik Lamela,Thiago Almada,Cristian Romero
+Emiliano Martínez,Alexis Mac Allister,Nicolás Otamendi,Valentin Castellanos,Guido Rodríguez
+Nicolás Otamendi,Mauro Icardi,Paulo Dybala
+Marcos Acuña,Enzo Fernández,Ángel Di María,Erik Lamela,Gerónimo Rulli,Julián Álvarez,Lisandro Martínez
+Enzo Fernández,Nicolás González,Paulo Dybala,Rodrigo Javier De Paul,Juan Foyth,Gerónimo Rulli,Mauro Icardi,Emiliano Buendía,Erik Lamela,Guido Rodríguez
+Marcos Acuña,Nicolás González,Paulo Dybala,Juan Foyth,Valentin Castellanos,Guido Rodríguez
+Nahuel Molina,Giovani Lo Celso,Nicolás González,Jeremías Conan Ledesma,Nicolás Tagliafico,Nicolás Otamendi,Facundo Medina,Cristian Romero
+Nicolás Otamendi,Lautaro Martínez,Giovani Lo Celso,Nicolás Tagliafico
+Nahuel Molina,Exequiel Palacios,Gerónimo Rulli,Nicolás Tagliafico
+Giovani Lo Celso,Nicolás Tagliafico,Alexis Mac Allister,Emiliano Buendía,Facundo Medina,Exequiel Palacios
+Nicolás Otamendi,Erik Lamela,Facundo Medina,Paulo Dybala
+Marcos Acuña,Enzo Fernández,Guido Rodríguez,Jeremías Conan Ledesma
+Marcos Acuña,Nicolás Tagliafico,Gerónimo Rulli,Ezequiel Ávila,Cristian Romero,Exequiel Palacios
+Lucas Ocampos,Emiliano Martínez,Rodrigo Javier De Paul,Nicolás Otamendi,Jeremías Conan Ledesma,Lisandro Martínez,Guido Rodríguez
+Alexis Mac Allister,Lautaro Martínez,Thiago Almada
+Lisandro Martínez,Giovani Lo Celso,Ezequiel Ávila
+Erik Lamela,Ángel Di María,Julián Álvarez
+Marcos Acuña,Ángel Di María,Nicolás Tagliafico,Paulo Dybala,Nicolás Otamendi,Julián Álvarez
+Erik Lamela,Ángel Di María,Cristian Romero,Lucas Ocampos
+Giovani Lo Celso,Nicolás González,Lisandro Martínez,Lautaro Martínez,Ezequiel Ávila
+Facundo Medina,Valentin Castellanos,Ángel Di María,Exequiel Palacios
+Ángel Di María,Giovani Lo Celso,Paulo Dybala,Emiliano Martínez,Rodrigo Javier De Paul,Gerónimo Rulli
+Ángel Di María,Erik Lamela,Paulo Dybala,Nicolás Otamendi,Julián Álvarez,Ángel Correa,Lautaro Martínez
+Nicolás Otamendi,Nahuel Molina,Paulo Dybala
+Emiliano Martínez,Juan Foyth,Emiliano Buendía
+Emiliano Martínez,Mauro Icardi,Thiago Almada,Cristian Romero,Ezequiel Ávila
+Nahuel Molina,Ángel Di María,Nicolás Tagliafico,Rodrigo Javier De Paul,Alexis Mac Allister,Juan Foyth,Emiliano Buendía,Erik Lamela
+Nahuel Molina,Marcos Acuña,Paulo Dybala,Rodrigo Javier De Paul,Guido Rodríguez
+Marcos Acuña,Ángel Di María,Emiliano Martínez,Valentin Castellanos,Julián Álvarez,Ángel Correa,Guido Rodríguez,Exequiel Palacios
+Ángel Di María,Lisandro Martínez,Giovani Lo Celso,Cristian Romero
+Ángel Correa,Ángel Di María,Nicolás Otamendi,Facundo Medina,Lautaro Martínez,Guido Rodríguez,Cristian Romero,Exequiel Palacios
+Marcos Acuña,Enzo Fernández,Ángel Di María,Nicolás Tagliafico,Ezequiel Ávila,Julián Álvarez,Ángel Correa,Facundo Medina
+Facundo Medina,Enzo Fernández,Juan Foyth,Lucas Ocampos
+Lisandro Martínez,Emiliano Martínez,Ángel Di María,Nicolás Tagliafico
+Nahuel Molina,Julián Álvarez,Ángel Correa,Lautaro Martínez,Cristian Romero,Exequiel Palacios
+Paulo Dybala,Alexis Mac Allister,Emiliano Martínez,Valentin Castellanos,Julián Álvarez,Ángel Correa,Erik Lamela,Ezequiel Ávila
+Marcos Acuña,Enzo Fernández,Lucas Ocampos,Emiliano Buendía,Ángel Correa,Guido Rodríguez
+Nicolás Tagliafico,Exequiel Palacios,Erik Lamela,Lautaro Martínez,Cristian Romero,Ezequiel Ávila
+Enzo Fernández,Nicolás González,Jeremías Conan Ledesma,Emiliano Buendía,Erik Lamela,Ezequiel Ávila
+Juan Foyth,Valentin Castellanos,Julián Álvarez,Mauro Icardi,Ángel Correa,Erik Lamela,Facundo Medina,Ezequiel Ávila
+Marcos Acuña,Alexis Mac Allister,Facundo Medina,Lautaro Martínez,Cristian Romero
+Jeremías Conan Ledesma,Thiago Almada,Emiliano Buendía,Lisandro Martínez,Guido Rodríguez
+Lucas Ocampos,Paulo Dybala,Nicolás Otamendi,Juan Foyth,Gerónimo Rulli
+Giovani Lo Celso,Jeremías Conan Ledesma,Rodrigo Javier De Paul,Mauro Icardi,Cristian Romero
+Erik Lamela,Mauro Icardi,Jeremías Conan Ledesma
+Nahuel Molina,Nicolás González,Nicolás Tagliafico,Nicolás Otamendi,Rodrigo Javier De Paul,Paulo Dybala,Valentin Castellanos,Guido Rodríguez
+Jeremías Conan Ledesma,Nicolás Tagliafico,Juan Foyth,Julián Álvarez,Erik Lamela,Guido Rodríguez
+Rodrigo Javier De Paul,Lautaro Martínez,Erik Lamela,Jeremías Conan Ledesma
+Paulo Dybala,Enzo Fernández,Exequiel Palacios
+Rodrigo Javier De Paul,Lisandro Martínez,Juan Foyth,Jeremías Conan Ledesma
+Ángel Correa,Lisandro Martínez,Mauro Icardi
+Ángel Correa,Enzo Fernández,Nicolás González,Emiliano Martínez,Thiago Almada,Facundo Medina,Guido Rodríguez,Cristian Romero
+Giovani Lo Celso,Paulo Dybala,Juan Foyth,Ezequiel Ávila,Guido Rodríguez,Mauro Icardi,Emiliano Buendía,Thiago Almada,Exequiel Palacios
+Marcos Acuña,Gerónimo Rulli,Valentin Castellanos,Lisandro Martínez,Lautaro Martínez
+Valentin Castellanos,Julián Álvarez,Juan Foyth,Emiliano Buendía
+Ángel Di María,Gerónimo Rulli,Lucas Ocampos
+Marcos Acuña,Emiliano Martínez,Rodrigo Javier De Paul,Facundo Medina,Erik Lamela,Ezequiel Ávila
+Nahuel Molina,Enzo Fernández,Ezequiel Ávila
+Lautaro Martínez,Lucas Ocampos,Nicolás Otamendi,Valentin Castellanos,Lisandro Martínez,Guido Rodríguez
+Facundo Medina,Enzo Fernández,Nahuel Molina
+Lucas Ocampos,Emiliano Martínez,Mauro Icardi,Lautaro Martínez,Guido Rodríguez,Cristian Romero,Ezequiel Ávila
+Marcos Acuña,Lucas Ocampos,Jeremías Conan Ledesma,Rodrigo Javier De Paul,Julián Álvarez,Emiliano Buendía,Lisandro Martínez,Ezequiel Ávila
+Nahuel Molina,Ángel Correa,Lucas Ocampos,Emiliano Buendía
+Nicolás Tagliafico,Alexis Mac Allister,Mauro Icardi,Ángel Correa,Lisandro Martínez,Ezequiel Ávila
+Nicolás Otamendi,Emiliano Buendía,Nicolás Tagliafico
+Ángel Di María,Emiliano Martínez,Gerónimo Rulli,Julián Álvarez,Ángel Correa,Lisandro Martínez,Lautaro Martínez,Ezequiel Ávila
+Erik Lamela,Paulo Dybala,Cristian Romero,Emiliano Martínez
+Nahuel Molina,Marcos Acuña,Giovani Lo Celso,Ángel Di María,Jeremías Conan Ledesma,Alexis Mac Allister,Valentin Castellanos
+Enzo Fernández,Erik Lamela,Nicolás González,Emiliano Martínez,Gerónimo Rulli,Mauro Icardi,Emiliano Buendía,Lisandro Martínez
+Nahuel Molina,Marcos Acuña,Enzo Fernández,Alexis Mac Allister
+Enzo Fernández,Nicolás González,Gerónimo Rulli,Ángel Correa,Lautaro Martínez
+Erik Lamela,Julián Álvarez,Emiliano Martínez
+Nahuel Molina,Marcos Acuña,Nicolás González,Jeremías Conan Ledesma,Emiliano Martínez,Nicolás Tagliafico,Ezequiel Ávila,Julián Álvarez,Facundo Medina,Exequiel Palacios
+Nahuel Molina,Giovani Lo Celso,Nicolás Tagliafico,Paulo Dybala,Valentin Castellanos,Julián Álvarez,Mauro Icardi,Facundo Medina
+Giovani Lo Celso,Cristian Romero,Ezequiel Ávila
+Nahuel Molina,Lucas Ocampos,Valentin Castellanos,Mauro Icardi,Ángel Correa,Thiago Almada,Ezequiel Ávila
+Enzo Fernández,Paulo Dybala,Nicolás Tagliafico,Alexis Mac Allister,Lisandro Martínez,Emiliano Buendía,Lautaro Martínez,Cristian Romero,Ezequiel Ávila
+Nicolás Otamendi,Valentin Castellanos,Juan Foyth
+Ángel Di María,Emiliano Buendía,Cristian Romero,Paulo Dybala
+Jeremías Conan Ledesma,Paulo Dybala,Nicolás Otamendi,Gerónimo Rulli,Valentin Castellanos,Lautaro Martínez,Guido Rodríguez,Ezequiel Ávila
+Giovani Lo Celso,Julián Álvarez,Ángel Correa,Lautaro Martínez,Ezequiel Ávila
+Nicolás González,Jeremías Conan Ledesma,Nicolás Tagliafico,Nicolás Otamendi,Juan Foyth,Gerónimo Rulli,Valentin Castellanos,Erik Lamela,Thiago Almada,Cristian Romero
+Giovani Lo Celso,Paulo Dybala,Ángel Correa,Erik Lamela,Ezequiel Ávila
+Emiliano Martínez,Alexis Mac Allister,Nicolás Otamendi,Ángel Correa,Erik Lamela,Guido Rodríguez,Exequiel Palacios
+Juan Foyth,Ezequiel Ávila,Ángel Correa,Lisandro Martínez,Guido Rodríguez,Exequiel Palacios
+Jeremías Conan Ledesma,Emiliano Martínez,Paulo Dybala,Julián Álvarez,Lisandro Martínez
+Giovani Lo Celso,Emiliano Martínez,Rodrigo Javier De Paul,Nicolás Otamendi,Valentin Castellanos
+Nahuel Molina,Enzo Fernández,Rodrigo Javier De Paul,Lisandro Martínez,Gerónimo Rulli,Mauro Icardi,Facundo Medina,Erik Lamela,Exequiel Palacios
+Nahuel Molina,Ángel Di María,Nicolás González,Emiliano Martínez,Nicolás Otamendi,Lautaro Martínez
+Guido Rodríguez,Gerónimo Rulli,Lucas Ocampos,Jeremías Conan Ledesma
+Alexis Mac Allister,Paulo Dybala,Exequiel Palacios
+Ángel Correa,Erik Lamela,Jeremías Conan Ledesma
+Giovani Lo Celso,Lucas Ocampos,Paulo Dybala,Nicolás Otamendi,Nicolás Tagliafico,Jeremías Conan Ledesma,Emiliano Buendía
+Alexis Mac Allister,Cristian Romero,Lucas Ocampos
+Nahuel Molina,Jeremías Conan Ledesma,Nicolás Tagliafico,Ángel Correa,Lautaro Martínez,Exequiel Palacios
+Enzo Fernández,Giovani Lo Celso,Nicolás González,Nicolás Otamendi,Thiago Almada,Facundo Medina,Guido Rodríguez
+Ángel Di María,Paulo Dybala,Alexis Mac Allister,Lisandro Martínez,Juan Foyth,Julián Álvarez,Lautaro Martínez
+Nahuel Molina,Rodrigo Javier De Paul,Facundo Medina,Erik Lamela,Guido Rodríguez,Exequiel Palacios
+Enzo Fernández,Juan Foyth,Facundo Medina,Thiago Almada,Exequiel Palacios
+Nahuel Molina,Marcos Acuña,Jeremías Conan Ledesma,Paulo Dybala,Rodrigo Javier De Paul,Nicolás Otamendi,Emiliano Martínez,Mauro Icardi,Thiago Almada
+Lisandro Martínez,Giovani Lo Celso,Erik Lamela,Nicolás González
+Thiago Almada,Julián Álvarez,Nicolás González
+Gerónimo Rulli,Lautaro Martínez,Nicolás González,Exequiel Palacios
+Marcos Acuña,Enzo Fernández,Ángel Di María,Nicolás González,Emiliano Martínez,Gerónimo Rulli,Facundo Medina
+Nahuel Molina,Nicolás González,Jeremías Conan Ledesma,Nicolás Tagliafico,Juan Foyth,Valentin Castellanos,Ángel Correa,Lautaro Martínez,Ezequiel Ávila
+Giovani Lo Celso,Ángel Di María,Nicolás González,Lucas Ocampos,Nicolás Tagliafico,Valentin Castellanos,Exequiel Palacios
+Lautaro Martínez,Erik Lamela,Gerónimo Rulli,Nicolás Tagliafico
+Erik Lamela,Rodrigo Javier De Paul,Juan Foyth,Lautaro Martínez,Exequiel Palacios
+Marcos Acuña,Giovani Lo Celso,Ángel Di María,Juan Foyth,Ángel Correa
+Nahuel Molina,Paulo Dybala,Valentin Castellanos,Facundo Medina,Guido Rodríguez
+Lautaro Martínez,Lisandro Martínez,Mauro Icardi
+Nahuel Molina,Juan Foyth,Exequiel Palacios
+Nahuel Molina,Marcos Acuña,Giovani Lo Celso,Jeremías Conan Ledesma,Emiliano Martínez,Rodrigo Javier De Paul,Nicolás Tagliafico,Juan Foyth
+Marcos Acuña,Ángel Di María,Jeremías Conan Ledesma,Nicolás Otamendi,Alexis Mac Allister,Erik Lamela,Guido Rodríguez
+Ángel Correa,Lautaro Martínez,Thiago Almada,Lucas Ocampos
+Nahuel Molina,Mauro Icardi,Emiliano Martínez
+Nahuel Molina,Marcos Acuña,Ángel Correa,Juan Foyth,Valentin Castellanos,Emiliano Buendía,Facundo Medina
+Ángel Correa,Giovani Lo Celso,Ángel Di María,Gerónimo Rulli
+Paulo Dybala,Jeremías Conan Ledesma,Lucas Ocampos,Exequiel Palacios
+Nahuel Molina,Enzo Fernández,Nicolás González,Jeremías Conan Ledesma,Nicolás Otamendi,Gerónimo Rulli,Mauro Icardi,Facundo Medina
+Exequiel Palacios,Ángel Correa,Erik Lamela,Lautaro Martínez,Cristian Romero,Facundo Medina
+Alexis Mac Allister,Marcos Acuña,Nahuel Molina,Nicolás Tagliafico
+Facundo Medina,Enzo Fernández,Ángel Di María,Jeremías Conan Ledesma
+Nicolás Tagliafico,Valentin Castellanos,Emiliano Buendía,Facundo Medina,Cristian Romero,Ezequiel Ávila
+Jeremías Conan Ledesma,Emiliano Martínez,Nicolás Otamendi,Paulo Dybala,Ángel Correa,Erik Lamela,Cristian Romero,Ezequiel Ávila
+Marcos Acuña,Giovani Lo Celso,Nicolás González,Rodrigo Javier De Paul,Gerónimo Rulli,Cristian Romero
+Giovani Lo Celso,Ángel Di María,Lucas Ocampos,Paulo Dybala,Rodrigo Javier De Paul,Lisandro Martínez
+Nicolás González,Nicolás Tagliafico,Rodrigo Javier De Paul,Emiliano Martínez,Juan Foyth,Mauro Icardi,Lautaro Martínez,Cristian Romero,Exequiel Palacios
+Alexis Mac Allister,Thiago Almada,Nicolás González
+Nahuel Molina,Marcos Acuña,Enzo Fernández,Giovani Lo Celso,Nicolás González,Nicolás Tagliafico,Juan Foyth
+Nicolás Otamendi,Erik Lamela,Ángel Di María,Lautaro Martínez
+Marcos Acuña,Nicolás Tagliafico,Juan Foyth,Gerónimo Rulli,Emiliano Buendía,Ezequiel Ávila
+Paulo Dybala,Alexis Mac Allister,Gerónimo Rulli,Julián Álvarez,Thiago Almada
+Nahuel Molina,Enzo Fernández,Paulo Dybala,Alexis Mac Allister,Juan Foyth,Lisandro Martínez
+Rodrigo Javier De Paul,Valentin Castellanos,Exequiel Palacios
+Lucas Ocampos,Nicolás Tagliafico,Nicolás Otamendi,Jeremías Conan Ledesma,Valentin Castellanos,Erik Lamela,Cristian Romero
+Enzo Fernández,Ezequiel Ávila,Julián Álvarez,Facundo Medina,Lisandro Martínez,Thiago Almada,Exequiel Palacios
+Nicolás González,Nicolás Tagliafico,Rodrigo Javier De Paul,Facundo Medina,Guido Rodríguez
+Giovani Lo Celso,Juan Foyth,Julián Álvarez,Emiliano Buendía,Ángel Correa,Erik Lamela,Thiago Almada
+Nicolás Tagliafico,Nicolás Otamendi,Alexis Mac Allister,Valentin Castellanos,Facundo Medina,Exequiel Palacios
+Valentin Castellanos,Thiago Almada,Julián Álvarez
+Nahuel Molina,Enzo Fernández,Ángel Di María,Nicolás González,Alexis Mac Allister,Nicolás Otamendi,Gerónimo Rulli,Lisandro Martínez,Cristian Romero
+Nahuel Molina,Ángel Di María,Jeremías Conan Ledesma,Paulo Dybala,Nicolás Otamendi,Ángel Correa,Erik Lamela,Facundo Medina
+Ángel Di María,Paulo Dybala,Nicolás Otamendi,Rodrigo Javier De Paul,Nicolás Tagliafico,Juan Foyth,Guido Rodríguez
+Nahuel Molina,Marcos Acuña,Enzo Fernández,Nicolás Tagliafico,Rodrigo Javier De Paul,Valentin Castellanos,Julián Álvarez,Mauro Icardi,Lisandro Martínez,Guido Rodríguez
+Marcos Acuña,Enzo Fernández,Giovani Lo Celso,Nicolás Otamendi,Gerónimo Rulli,Mauro Icardi,Guido Rodríguez,Ezequiel Ávila
+Marcos Acuña,Erik Lamela,Nicolás Otamendi,Lautaro Martínez,Thiago Almada
+Gerónimo Rulli,Exequiel Palacios
+Giovani Lo Celso,Nicolás González,Jeremías Conan Ledesma,Nicolás Tagliafico,Nicolás Otamendi,Valentin Castellanos
+Nahuel Molina,Ángel Di María,Lucas Ocampos,Rodrigo Javier De Paul,Alexis Mac Allister,Juan Foyth,Ángel Correa,Guido Rodríguez
+Facundo Medina,Enzo Fernández,Ángel Di María,Emiliano Martínez
+Lisandro Martínez,Thiago Almada,Erik Lamela
+Ángel Di María,Jeremías Conan Ledesma,Paulo Dybala,Thiago Almada,Lautaro Martínez,Guido Rodríguez,Ezequiel Ávila
+Marcos Acuña,Nicolás González,Nicolás Tagliafico,Juan Foyth,Julián Álvarez,Emiliano Buendía,Lautaro Martínez
+Nicolás Tagliafico,Nicolás Otamendi,Rodrigo Javier De Paul,Alexis Mac Allister,Emiliano Buendía,Erik Lamela,Lautaro Martínez
+Ángel Di María,Marcos Acuña,Giovani Lo Celso
+Nicolás Otamendi,Paulo Dybala,Nicolás Tagliafico
+Alexis Mac Allister,Nicolás Tagliafico,Emiliano Buendía
+Nahuel Molina,Jeremías Conan Ledesma,Nicolás Otamendi,Ángel Correa,Lisandro Martínez,Cristian Romero,Ezequiel Ávila
+Jeremías Conan Ledesma,Lucas Ocampos,Juan Foyth,Julián Álvarez,Mauro Icardi
+Enzo Fernández,Paulo Dybala,Nicolás Tagliafico,Gerónimo Rulli,Valentin Castellanos,Ángel Correa,Guido Rodríguez
+Giovani Lo Celso,Nicolás Otamendi,Juan Foyth,Valentin Castellanos,Ángel Correa
+Nahuel Molina,Marcos Acuña,Enzo Fernández,Giovani Lo Celso,Jeremías Conan Ledesma,Paulo Dybala,Alexis Mac Allister,Emiliano Buendía,Lautaro Martínez
+Marcos Acuña,Enzo Fernández,Lucas Ocampos,Paulo Dybala,Alexis Mac Allister,Valentin Castellanos,Julián Álvarez,Emiliano Buendía,Lautaro Martínez,Guido Rodríguez
+Giovani Lo Celso,Ángel Di María,Nicolás González,Rodrigo Javier De Paul,Alexis Mac Allister,Lautaro Martínez,Thiago Almada,Ezequiel Ávila
+Alexis Mac Allister,Ángel Di María,Gerónimo Rulli,Nicolás Tagliafico
+Nahuel Molina,Erik Lamela,Jeremías Conan Ledesma,Mauro Icardi,Lautaro Martínez,Cristian Romero
+Marcos Acuña,Paulo Dybala,Nicolás Otamendi,Julián Álvarez,Lautaro Martínez,Thiago Almada
+Jeremías Conan Ledesma,Nicolás Otamendi,Juan Foyth,Julián Álvarez,Facundo Medina,Guido Rodríguez,Cristian Romero,Ezequiel Ávila
+Rodrigo Javier De Paul,Ángel Correa,Giovani Lo Celso,Cristian Romero
+Alexis Mac Allister,Lautaro Martínez,Guido Rodríguez,Juan Foyth
+Enzo Fernández,Giovani Lo Celso,Nicolás Otamendi,Ezequiel Ávila,Exequiel Palacios,Ángel Correa,Facundo Medina
+Jeremías Conan Ledesma,Emiliano Martínez,Rodrigo Javier De Paul,Lucas Ocampos,Juan Foyth,Emiliano Buendía
+Nahuel Molina,Ángel Correa,Giovani Lo Celso,Nicolás González
+Ángel Correa,Lisandro Martínez,Juan Foyth,Ezequiel Ávila
+Lucas Ocampos,Paulo Dybala,Alexis Mac Allister,Mauro Icardi,Thiago Almada
+Giovani Lo Celso,Jeremías Conan Ledesma,Juan Foyth,Valentin Castellanos,Cristian Romero
+Enzo Fernández,Emiliano Martínez,Nicolás Otamendi,Rodrigo Javier De Paul,Juan Foyth,Lisandro Martínez,Guido Rodríguez,Cristian Romero
+Nahuel Molina,Giovani Lo Celso,Nicolás Tagliafico,Alexis Mac Allister,Nicolás Otamendi,Mauro Icardi,Erik Lamela,Ezequiel Ávila
+Nahuel Molina,Enzo Fernández,Nicolás Tagliafico,Thiago Almada,Emiliano Buendía,Guido Rodríguez
+Nahuel Molina,Enzo Fernández,Lucas Ocampos,Alexis Mac Allister,Ezequiel Ávila
+Nahuel Molina,Giovani Lo Celso,Paulo Dybala,Nicolás Tagliafico,Nicolás Otamendi,Julián Álvarez,Emiliano Buendía,Ángel Correa
+Mauro Icardi,Lucas Ocampos,Emiliano Buendía
+Jeremías Conan Ledesma,Emiliano Martínez,Juan Foyth,Julián Álvarez,Mauro Icardi,Facundo Medina,Erik Lamela,Thiago Almada
+Enzo Fernández,Nicolás González,Lucas Ocampos,Emiliano Martínez,Nicolás Tagliafico,Gerónimo Rulli,Facundo Medina
+Marcos Acuña,Nicolás González,Paulo Dybala,Juan Foyth,Facundo Medina,Lautaro Martínez,Thiago Almada,Cristian Romero,Exequiel Palacios
+Rodrigo Javier De Paul,Cristian Romero,Exequiel Palacios
+Nicolás Tagliafico,Juan Foyth,Exequiel Palacios,Emiliano Martínez
+Nahuel Molina,Ángel Di María,Paulo Dybala,Rodrigo Javier De Paul,Valentin Castellanos,Julián Álvarez,Facundo Medina,Lautaro Martínez,Cristian Romero,Exequiel Palacios
+Marcos Acuña,Enzo Fernández,Juan Foyth,Facundo Medina,Thiago Almada,Ezequiel Ávila
+Ángel Correa,Lisandro Martínez,Nicolás Otamendi
+Giovani Lo Celso,Jeremías Conan Ledesma,Nicolás Tagliafico,Lucas Ocampos,Alexis Mac Allister,Nicolás Otamendi,Ángel Correa,Lautaro Martínez,Guido Rodríguez
+Marcos Acuña,Paulo Dybala,Nicolás Tagliafico,Nicolás Otamendi,Alexis Mac Allister,Mauro Icardi,Ángel Correa
+Nicolás Tagliafico,Paulo Dybala,Nicolás Otamendi,Alexis Mac Allister,Gerónimo Rulli,Lisandro Martínez,Cristian Romero,Ezequiel Ávila
+Ángel Di María,Paulo Dybala,Juan Foyth,Emiliano Buendía,Thiago Almada,Cristian Romero,Ezequiel Ávila
+Lucas Ocampos,Alexis Mac Allister,Exequiel Palacios,Ángel Correa,Erik Lamela,Facundo Medina
+Marcos Acuña,Nicolás Otamendi,Valentin Castellanos,Julián Álvarez,Ángel Correa
+Nahuel Molina,Marcos Acuña,Julián Álvarez,Facundo Medina,Lisandro Martínez,Guido Rodríguez,Cristian Romero
+Lucas Ocampos,Paulo Dybala,Nicolás Otamendi,Juan Foyth,Gerónimo Rulli,Mauro Icardi,Facundo Medina,Lisandro Martínez,Ezequiel Ávila
+Nahuel Molina,Rodrigo Javier De Paul,Nicolás Otamendi,Cristian Romero,Ezequiel Ávila
+Nahuel Molina,Juan Foyth,Emiliano Buendía,Lautaro Martínez,Thiago Almada
+Marcos Acuña,Lisandro Martínez,Erik Lamela,Guido Rodríguez,Cristian Romero,Exequiel Palacios
+Enzo Fernández,Guido Rodríguez,Jeremías Conan Ledesma,Nicolás Tagliafico
+Guido Rodríguez,Emiliano Buendía,Ezequiel Ávila,Paulo Dybala
+Nahuel Molina,Jeremías Conan Ledesma,Lucas Ocampos,Nicolás Otamendi,Rodrigo Javier De Paul,Lisandro Martínez,Guido Rodríguez
+Marcos Acuña,Lisandro Martínez,Giovani Lo Celso,Juan Foyth
+Nicolás Otamendi,Rodrigo Javier De Paul,Thiago Almada
+Marcos Acuña,Alexis Mac Allister,Nicolás Otamendi,Gerónimo Rulli,Julián Álvarez,Erik Lamela,Guido Rodríguez,Ezequiel Ávila
+Nicolás González,Jeremías Conan Ledesma,Emiliano Martínez,Paulo Dybala,Juan Foyth,Emiliano Buendía,Lisandro Martínez,Guido Rodríguez,Cristian Romero
+Nicolás Tagliafico,Nicolás Otamendi,Alexis Mac Allister,Juan Foyth,Cristian Romero
+Giovani Lo Celso,Jeremías Conan Ledesma,Lucas Ocampos,Gerónimo Rulli,Julián Álvarez,Emiliano Buendía,Erik Lamela
+Marcos Acuña,Ángel Di María,Guido Rodríguez,Ángel Correa,Thiago Almada,Cristian Romero
+Ángel Correa,Enzo Fernández,Julián Álvarez,Ezequiel Ávila
+Rodrigo Javier De Paul,Erik Lamela,Jeremías Conan Ledesma,Ezequiel Ávila
+Lautaro Martínez,Jeremías Conan Ledesma,Emiliano Martínez
+Valentin Castellanos,Guido Rodríguez,Nicolás Tagliafico,Paulo Dybala
+Ángel Di María,Lucas Ocampos,Emiliano Martínez,Mauro Icardi,Emiliano Buendía,Ezequiel Ávila
+Guido Rodríguez,Jeremías Conan Ledesma,Nicolás Tagliafico
+Paulo Dybala,Guido Rodríguez,Julián Álvarez,Exequiel Palacios
+Enzo Fernández,Nicolás González,Lucas Ocampos,Paulo Dybala,Nicolás Otamendi,Jeremías Conan Ledesma,Mauro Icardi,Lisandro Martínez,Ezequiel Ávila
+Rodrigo Javier De Paul,Giovani Lo Celso,Thiago Almada
+Marcos Acuña,Valentin Castellanos
+Enzo Fernández,Lucas Ocampos,Jeremías Conan Ledesma,Alexis Mac Allister,Guido Rodríguez,Ángel Correa,Erik Lamela,Thiago Almada,Exequiel Palacios
+Ángel Correa,Lisandro Martínez,Ezequiel Ávila
+Nahuel Molina,Ángel Di María,Gerónimo Rulli,Ezequiel Ávila
+Rodrigo Javier De Paul,Marcos Acuña,Jeremías Conan Ledesma
+Giovani Lo Celso,Nicolás Otamendi,Julián Álvarez,Emiliano Buendía,Lisandro Martínez,Guido Rodríguez,Cristian Romero
+Nicolás Tagliafico,Rodrigo Javier De Paul,Alexis Mac Allister,Gerónimo Rulli,Thiago Almada
+Rodrigo Javier De Paul,Nicolás Otamendi,Julián Álvarez,Mauro Icardi,Guido Rodríguez,Ezequiel Ávila
+Nahuel Molina,Rodrigo Javier De Paul,Valentin Castellanos,Emiliano Buendía,Lautaro Martínez,Thiago Almada
+Giovani Lo Celso,Nicolás Tagliafico,Rodrigo Javier De Paul,Ezequiel Ávila,Exequiel Palacios
+Emiliano Martínez,Nicolás Otamendi,Nicolás Tagliafico,Alexis Mac Allister,Paulo Dybala,Juan Foyth,Thiago Almada,Guido Rodríguez,Cristian Romero
+Jeremías Conan Ledesma,Paulo Dybala,Emiliano Martínez,Erik Lamela,Ezequiel Ávila
+Lucas Ocampos,Emiliano Martínez,Rodrigo Javier De Paul,Alexis Mac Allister,Valentin Castellanos,Ángel Correa,Lisandro Martínez,Ezequiel Ávila
+Nahuel Molina,Ángel Di María,Alexis Mac Allister,Rodrigo Javier De Paul,Juan Foyth,Facundo Medina,Lautaro Martínez
+Enzo Fernández,Julián Álvarez,Juan Foyth,Paulo Dybala
+Nahuel Molina,Enzo Fernández,Ángel Di María,Nicolás Otamendi,Mauro Icardi,Ángel Correa,Erik Lamela,Cristian Romero
+Nahuel Molina,Nicolás González,Paulo Dybala,Gerónimo Rulli,Emiliano Buendía,Guido Rodríguez
+Nicolás Otamendi,Julián Álvarez,Gerónimo Rulli,Paulo Dybala
+Lisandro Martínez,Marcos Acuña,Mauro Icardi
+Marcos Acuña,Enzo Fernández,Giovani Lo Celso,Nicolás González,Jeremías Conan Ledesma,Nicolás Tagliafico,Emiliano Martínez,Rodrigo Javier De Paul,Ángel Correa,Erik Lamela
+Nahuel Molina,Enzo Fernández,Nicolás Otamendi,Alexis Mac Allister,Juan Foyth
+Enzo Fernández,Ángel Di María,Paulo Dybala,Ángel Correa,Guido Rodríguez
+Nahuel Molina,Paulo Dybala,Exequiel Palacios,Emiliano Buendía
+Nicolás Otamendi,Valentin Castellanos,Jeremías Conan Ledesma
+Giovani Lo Celso,Jeremías Conan Ledesma,Paulo Dybala,Nicolás Otamendi,Nicolás Tagliafico,Emiliano Martínez,Lisandro Martínez,Ezequiel Ávila
+Enzo Fernández,Lucas Ocampos,Jeremías Conan Ledesma,Alexis Mac Allister,Emiliano Martínez,Valentin Castellanos,Emiliano Buendía,Erik Lamela,Ezequiel Ávila
+Marcos Acuña,Enzo Fernández,Lucas Ocampos,Rodrigo Javier De Paul,Julián Álvarez,Emiliano Buendía,Ángel Correa,Lisandro Martínez
+Nicolás González,Emiliano Martínez,Alexis Mac Allister,Emiliano Buendía,Erik Lamela,Cristian Romero
+Rodrigo Javier De Paul,Exequiel Palacios
+Cristian Romero,Marcos Acuña,Gerónimo Rulli,Facundo Medina
+Facundo Medina,Ángel Correa,Valentin Castellanos,Juan Foyth
+Nahuel Molina,Marcos Acuña,Ángel Di María,Jeremías Conan Ledesma,Gerónimo Rulli,Erik Lamela
+Giovani Lo Celso,Nicolás Tagliafico,Valentin Castellanos,Facundo Medina,Erik Lamela,Guido Rodríguez,Exequiel Palacios
+Lucas Ocampos,Jeremías Conan Ledesma,Alexis Mac Allister,Paulo Dybala,Nicolás Otamendi,Rodrigo Javier De Paul,Juan Foyth,Valentin Castellanos,Lisandro Martínez,Thiago Almada
+Enzo Fernández,Giovani Lo Celso,Lucas Ocampos,Julián Álvarez,Emiliano Buendía,Cristian Romero,Ezequiel Ávila
+Nahuel Molina,Paulo Dybala,Nicolás Tagliafico,Juan Foyth,Gerónimo Rulli,Julián Álvarez,Guido Rodríguez,Cristian Romero,Ezequiel Ávila
+Enzo Fernández,Jeremías Conan Ledesma,Nicolás Tagliafico,Nicolás Otamendi,Rodrigo Javier De Paul,Emiliano Martínez,Lautaro Martínez
+Nahuel Molina,Marcos Acuña,Valentin Castellanos,Ángel Correa,Erik Lamela,Exequiel Palacios
+Paulo Dybala,Alexis Mac Allister,Rodrigo Javier De Paul,Valentin Castellanos,Mauro Icardi,Ángel Correa,Lisandro Martínez,Exequiel Palacios
+Nahuel Molina,Rodrigo Javier De Paul,Thiago Almada,Lautaro Martínez,Guido Rodríguez,Cristian Romero,Ezequiel Ávila
+Marcos Acuña,Lucas Ocampos,Valentin Castellanos,Exequiel Palacios,Cristian Romero,Ezequiel Ávila
+Nahuel Molina,Alexis Mac Allister,Juan Foyth,Lisandro Martínez,Cristian Romero
+Lucas Ocampos,Valentin Castellanos,Emiliano Buendía,Ángel Correa,Erik Lamela,Guido Rodríguez,Exequiel Palacios
+Marcos Acuña,Nicolás González,Emiliano Martínez,Mauro Icardi,Lautaro Martínez,Cristian Romero
+Thiago Almada,Ángel Di María,Mauro Icardi
+Nahuel Molina,Enzo Fernández,Ángel Di María,Nicolás Otamendi,Juan Foyth,Gerónimo Rulli,Julián Álvarez,Lautaro Martínez
+Marcos Acuña,Enzo Fernández,Giovani Lo Celso,Lucas Ocampos,Thiago Almada,Facundo Medina,Guido Rodríguez
+Giovani Lo Celso,Lucas Ocampos,Mauro Icardi,Thiago Almada,Cristian Romero
+Nicolás Tagliafico,Alexis Mac Allister,Emiliano Martínez,Rodrigo Javier De Paul,Juan Foyth,Julián Álvarez,Facundo Medina,Lisandro Martínez,Exequiel Palacios
+Erik Lamela,Ángel Di María,Cristian Romero,Mauro Icardi
+Enzo Fernández,Giovani Lo Celso,Jeremías Conan Ledesma,Paulo Dybala,Nicolás Otamendi,Ángel Correa,Thiago Almada,Cristian Romero
+Alexis Mac Allister,Guido Rodríguez,Nicolás González,Paulo Dybala
+Lucas Ocampos,Paulo Dybala,Mauro Icardi,Emiliano Buendía,Erik Lamela
+Marcos Acuña,Paulo Dybala,Mauro Icardi,Emiliano Buendía,Facundo Medina
+Marcos Acuña,Enzo Fernández,Facundo Medina,Cristian Romero,Exequiel Palacios
+Nahuel Molina,Lucas Ocampos,Alexis Mac Allister,Juan Foyth,Valentin Castellanos,Ángel Correa,Thiago Almada
+Ángel Di María,Lucas Ocampos,Gerónimo Rulli,Valentin Castellanos,Guido Rodríguez,Emiliano Buendía,Thiago Almada,Exequiel Palacios
+Marcos Acuña,Enzo Fernández,Nicolás González,Jeremías Conan Ledesma,Alexis Mac Allister
+Giovani Lo Celso,Lucas Ocampos,Rodrigo Javier De Paul,Ángel Correa,Lautaro Martínez
+Erik Lamela,Giovani Lo Celso,Emiliano Buendía,Exequiel Palacios
+Enzo Fernández,Nicolás González,Emiliano Martínez,Paulo Dybala,Valentin Castellanos,Guido Rodríguez
+Marcos Acuña,Valentin Castellanos,Guido Rodríguez,Mauro Icardi
+Enzo Fernández,Giovani Lo Celso,Ángel Di María,Nicolás González,Jeremías Conan Ledesma,Paulo Dybala,Valentin Castellanos
+Nahuel Molina,Emiliano Martínez,Nicolás Otamendi,Juan Foyth,Emiliano Buendía,Ángel Correa,Erik Lamela,Guido Rodríguez,Facundo Medina
+Alexis Mac Allister,Guido Rodríguez,Nicolás González,Emiliano Buendía
+Ángel Di María,Nicolás González,Lucas Ocampos,Nicolás Otamendi,Alexis Mac Allister,Valentin Castellanos
+Nicolás Tagliafico,Nicolás Otamendi,Emiliano Martínez,Juan Foyth,Gerónimo Rulli,Thiago Almada
+Juan Foyth,Julián Álvarez,Ezequiel Ávila,Nicolás Tagliafico
+Marcos Acuña,Emiliano Martínez,Rodrigo Javier De Paul,Valentin Castellanos,Facundo Medina,Lautaro Martínez,Cristian Romero,Ezequiel Ávila
+Lucas Ocampos,Paulo Dybala,Nicolás Otamendi,Rodrigo Javier De Paul,Valentin Castellanos,Guido Rodríguez,Exequiel Palacios
+Nahuel Molina,Giovani Lo Celso,Paulo Dybala,Rodrigo Javier De Paul,Erik Lamela,Thiago Almada
+Enzo Fernández,Lautaro Martínez,Paulo Dybala,Alexis Mac Allister,Facundo Medina,Erik Lamela,Guido Rodríguez
+Paulo Dybala,Emiliano Martínez,Alexis Mac Allister,Juan Foyth,Ezequiel Ávila,Emiliano Buendía,Facundo Medina,Lautaro Martínez,Exequiel Palacios
+Nicolás González,Jeremías Conan Ledesma,Nicolás Tagliafico,Rodrigo Javier De Paul,Valentin Castellanos,Julián Álvarez,Thiago Almada,Guido Rodríguez,Ezequiel Ávila
+Nahuel Molina,Lucas Ocampos,Alexis Mac Allister,Ángel Correa,Erik Lamela
+Giovani Lo Celso,Lucas Ocampos,Nicolás Tagliafico,Nicolás Otamendi,Valentin Castellanos,Emiliano Buendía,Ezequiel Ávila
+Nahuel Molina,Marcos Acuña,Ángel Di María,Nicolás Tagliafico,Valentin Castellanos,Julián Álvarez,Mauro Icardi,Facundo Medina,Ezequiel Ávila
+Marcos Acuña,Giovani Lo Celso,Ángel Di María,Alexis Mac Allister,Julián Álvarez,Exequiel Palacios,Lautaro Martínez,Cristian Romero,Ezequiel Ávila
+Nahuel Molina,Cristian Romero,Jeremías Conan Ledesma
+Paulo Dybala,Rodrigo Javier De Paul,Nicolás Otamendi,Alexis Mac Allister,Mauro Icardi,Exequiel Palacios
+Ángel Correa,Guido Rodríguez,Alexis Mac Allister,Facundo Medina
+Rodrigo Javier De Paul,Erik Lamela,Paulo Dybala
+Ángel Di María,Paulo Dybala,Rodrigo Javier De Paul,Nicolás Tagliafico,Emiliano Martínez,Gerónimo Rulli,Mauro Icardi,Facundo Medina,Ezequiel Ávila
+Lisandro Martínez,Valentin Castellanos,Thiago Almada,Exequiel Palacios
+Nahuel Molina,Ángel Correa,Enzo Fernández,Nicolás González,Lucas Ocampos,Nicolás Tagliafico,Emiliano Buendía,Facundo Medina,Lisandro Martínez,Cristian Romero
+Jeremías Conan Ledesma,Alexis Mac Allister,Ángel Correa,Lautaro Martínez,Thiago Almada,Cristian Romero
+Nahuel Molina,Alexis Mac Allister,Emiliano Buendía,Cristian Romero,Ezequiel Ávila
+Enzo Fernández,Nicolás González,Gerónimo Rulli,Valentin Castellanos,Emiliano Buendía,Ángel Correa,Guido Rodríguez,Ezequiel Ávila
+Marcos Acuña,Jeremías Conan Ledesma,Nicolás Tagliafico,Gerónimo Rulli,Valentin Castellanos,Julián Álvarez,Mauro Icardi,Cristian Romero
+Nahuel Molina,Enzo Fernández,Paulo Dybala,Gerónimo Rulli,Valentin Castellanos,Mauro Icardi,Thiago Almada,Guido Rodríguez
+Ángel Di María,Jeremías Conan Ledesma,Juan Foyth,Ezequiel Ávila,Ángel Correa,Lautaro Martínez,Exequiel Palacios
+Marcos Acuña,Giovani Lo Celso,Nicolás González,Juan Foyth,Valentin Castellanos
+Marcos Acuña,Enzo Fernández,Giovani Lo Celso,Mauro Icardi,Erik Lamela,Exequiel Palacios
+Nahuel Molina,Lucas Ocampos,Alexis Mac Allister,Julián Álvarez,Ángel Correa,Lautaro Martínez
+Marcos Acuña,Rodrigo Javier De Paul,Alexis Mac Allister,Valentin Castellanos,Emiliano Buendía,Facundo Medina,Lisandro Martínez,Cristian Romero
+Ángel Correa,Juan Foyth,Alexis Mac Allister,Emiliano Buendía
+Lucas Ocampos,Nicolás Otamendi,Juan Foyth,Mauro Icardi,Facundo Medina,Cristian Romero,Exequiel Palacios
+Jeremías Conan Ledesma,Paulo Dybala,Nicolás Otamendi,Juan Foyth,Erik Lamela,Guido Rodríguez,Cristian Romero
+Marcos Acuña,Ángel Di María,Nicolás Tagliafico,Rodrigo Javier De Paul,Julián Álvarez,Emiliano Buendía,Ángel Correa,Lautaro Martínez,Exequiel Palacios
+Enzo Fernández,Lucas Ocampos,Nicolás Tagliafico,Ángel Correa,Erik Lamela,Thiago Almada
+Marcos Acuña,Nicolás González,Jeremías Conan Ledesma,Gerónimo Rulli,Mauro Icardi,Cristian Romero
+Emiliano Martínez,Nicolás Tagliafico,Lisandro Martínez,Erik Lamela,Ezequiel Ávila
+Marcos Acuña,Giovani Lo Celso,Ángel Di María,Lucas Ocampos,Nicolás Otamendi,Gerónimo Rulli,Exequiel Palacios,Ezequiel Ávila
+Enzo Fernández,Ángel Di María,Rodrigo Javier De Paul,Nicolás Otamendi,Alexis Mac Allister,Mauro Icardi,Facundo Medina,Thiago Almada
+Lucas Ocampos,Nicolás Tagliafico,Nicolás Otamendi,Jeremías Conan Ledesma,Julián Álvarez,Emiliano Buendía,Lisandro Martínez,Thiago Almada
+Marcos Acuña,Ángel Di María,Jeremías Conan Ledesma,Nicolás Otamendi,Guido Rodríguez,Emiliano Buendía,Thiago Almada
+Rodrigo Javier De Paul,Giovani Lo Celso,Mauro Icardi
+Ángel Correa,Marcos Acuña,Ezequiel Ávila
+Giovani Lo Celso,Rodrigo Javier De Paul,Juan Foyth,Mauro Icardi,Ángel Correa,Lisandro Martínez
+Alexis Mac Allister,Marcos Acuña,Juan Foyth,Ezequiel Ávila
+Lucas Ocampos,Paulo Dybala,Gerónimo Rulli,Ángel Correa,Facundo Medina
+Ángel Di María,Cristian Romero,Jeremías Conan Ledesma,Emiliano Buendía
+Nahuel Molina,Ángel Correa,Nicolás Tagliafico,Alexis Mac Allister,Juan Foyth,Julián Álvarez,Facundo Medina,Lisandro Martínez,Cristian Romero
+Ángel Correa,Thiago Almada,Julián Álvarez
+Enzo Fernández,Nicolás González,Paulo Dybala,Nicolás Otamendi,Julián Álvarez,Emiliano Buendía,Thiago Almada,Ezequiel Ávila
+Ángel Di María,Juan Foyth,Valentin Castellanos,Mauro Icardi,Ángel Correa
+Rodrigo Javier De Paul,Lisandro Martínez,Cristian Romero
+Marcos Acuña,Giovani Lo Celso,Guido Rodríguez,Julián Álvarez,Thiago Almada,Cristian Romero,Exequiel Palacios
+Lautaro Martínez,Nicolás González,Lucas Ocampos,Emiliano Martínez,Juan Foyth,Gerónimo Rulli,Julián Álvarez,Ángel Correa,Lisandro Martínez,Guido Rodríguez
+Giovani Lo Celso,Emiliano Martínez,Nicolás Otamendi,Juan Foyth,Julián Álvarez,Lautaro Martínez
+Enzo Fernández,Jeremías Conan Ledesma,Nicolás Tagliafico,Rodrigo Javier De Paul,Mauro Icardi,Cristian Romero
+Julián Álvarez,Mauro Icardi,Nicolás Tagliafico
+Nicolás Otamendi,Lautaro Martínez,Nicolás Tagliafico,Ezequiel Ávila
+Nahuel Molina,Jeremías Conan Ledesma,Nicolás Tagliafico,Nicolás Otamendi,Julián Álvarez,Erik Lamela,Lautaro Martínez
+Nahuel Molina,Lucas Ocampos,Rodrigo Javier De Paul,Juan Foyth,Julián Álvarez,Lautaro Martínez,Thiago Almada
+Nahuel Molina,Enzo Fernández,Nicolás Otamendi
+Giovani Lo Celso,Lautaro Martínez,Julián Álvarez,Mauro Icardi,Emiliano Buendía,Erik Lamela,Guido Rodríguez
+Nicolás Otamendi,Giovani Lo Celso,Mauro Icardi
+Nicolás González,Emiliano Martínez,Nicolás Otamendi,Nicolás Tagliafico,Valentin Castellanos,Lautaro Martínez
+Giovani Lo Celso,Nicolás Otamendi,Alexis Mac Allister,Valentin Castellanos,Mauro Icardi,Emiliano Buendía,Lisandro Martínez,Thiago Almada,Ezequiel Ávila
+Nahuel Molina,Giovani Lo Celso,Emiliano Martínez,Juan Foyth,Emiliano Buendía,Exequiel Palacios
+Paulo Dybala,Nicolás Otamendi,Rodrigo Javier De Paul,Emiliano Martínez,Gerónimo Rulli,Emiliano Buendía,Lautaro Martínez,Guido Rodríguez
+Giovani Lo Celso,Juan Foyth,Emiliano Buendía
+Nahuel Molina,Marcos Acuña,Giovani Lo Celso,Ángel Di María,Lucas Ocampos,Nicolás Tagliafico,Paulo Dybala,Gerónimo Rulli,Lautaro Martínez,Exequiel Palacios
+Nahuel Molina,Marcos Acuña,Valentin Castellanos,Julián Álvarez,Ángel Correa
+Marcos Acuña,Ángel Di María,Emiliano Martínez,Alexis Mac Allister,Nicolás Tagliafico,Julián Álvarez,Ángel Correa
+Emiliano Martínez,Julián Álvarez,Mauro Icardi,Facundo Medina,Thiago Almada,Ezequiel Ávila
+Marcos Acuña,Nicolás Otamendi,Ángel Correa,Lautaro Martínez,Exequiel Palacios
+Nicolás González,Nicolás Tagliafico,Nicolás Otamendi,Exequiel Palacios,Thiago Almada,Ezequiel Ávila
+Ángel Di María,Emiliano Martínez,Thiago Almada,Guido Rodríguez
+Enzo Fernández,Lucas Ocampos,Emiliano Martínez,Alexis Mac Allister,Gerónimo Rulli,Valentin Castellanos,Mauro Icardi,Facundo Medina,Exequiel Palacios
+Giovani Lo Celso,Lucas Ocampos,Rodrigo Javier De Paul,Valentin Castellanos,Facundo Medina,Guido Rodríguez
+Marcos Acuña,Lucas Ocampos,Emiliano Martínez,Ángel Correa,Thiago Almada
+Marcos Acuña,Enzo Fernández,Erik Lamela,Gerónimo Rulli,Valentin Castellanos,Mauro Icardi,Facundo Medina,Lautaro Martínez,Thiago Almada
+Ángel Di María,Emiliano Martínez,Alexis Mac Allister,Rodrigo Javier De Paul,Gerónimo Rulli,Facundo Medina
+Enzo Fernández,Giovani Lo Celso,Nicolás Otamendi,Juan Foyth,Gerónimo Rulli,Valentin Castellanos,Julián Álvarez
+Ángel Di María,Nicolás Tagliafico,Gerónimo Rulli,Guido Rodríguez,Ezequiel Ávila
+Ángel Correa,Nicolás González,Emiliano Martínez,Julián Álvarez,Exequiel Palacios,Facundo Medina,Erik Lamela,Ezequiel Ávila
+Enzo Fernández,Nicolás Otamendi,Valentin Castellanos,Mauro Icardi,Lautaro Martínez
+Paulo Dybala,Emiliano Buendía,Lisandro Martínez,Thiago Almada,Ezequiel Ávila
+Nahuel Molina,Marcos Acuña,Jeremías Conan Ledesma,Rodrigo Javier De Paul,Gerónimo Rulli,Mauro Icardi,Ángel Correa,Guido Rodríguez
+Enzo Fernández,Paulo Dybala,Rodrigo Javier De Paul,Alexis Mac Allister,Gerónimo Rulli,Exequiel Palacios,Julián Álvarez,Lisandro Martínez,Ezequiel Ávila
+Nahuel Molina,Enzo Fernández,Juan Foyth,Emiliano Buendía,Exequiel Palacios
+Nahuel Molina,Marcos Acuña,Jeremías Conan Ledesma,Paulo Dybala,Nicolás Otamendi,Facundo Medina,Lautaro Martínez,Guido Rodríguez,Ezequiel Ávila
+Emiliano Martínez,Gerónimo Rulli,Erik Lamela,Guido Rodríguez,Ezequiel Ávila
+Nahuel Molina,Marcos Acuña,Nicolás Tagliafico,Emiliano Martínez,Juan Foyth,Ángel Correa,Lautaro Martínez,Thiago Almada
+Giovani Lo Celso,Lucas Ocampos,Paulo Dybala,Nicolás Tagliafico,Nicolás Otamendi,Gerónimo Rulli,Thiago Almada
+Marcos Acuña,Giovani Lo Celso,Nicolás González,Rodrigo Javier De Paul,Juan Foyth,Valentin Castellanos,Mauro Icardi,Emiliano Buendía,Guido Rodríguez
+Lisandro Martínez,Lautaro Martínez,Nicolás González,Emiliano Buendía
+Enzo Fernández,Ángel Di María,Paulo Dybala,Rodrigo Javier De Paul,Gerónimo Rulli,Lautaro Martínez,Thiago Almada,Exequiel Palacios
+Nicolás González,Nicolás Tagliafico,Guido Rodríguez,Ángel Correa,Erik Lamela,Lautaro Martínez,Exequiel Palacios
+Ángel Di María,Cristian Romero,Emiliano Buendía
+Nicolás Otamendi,Gerónimo Rulli,Emiliano Buendía,Erik Lamela,Cristian Romero
+Nahuel Molina,Lucas Ocampos,Alexis Mac Allister,Rodrigo Javier De Paul,Juan Foyth,Ángel Correa,Guido Rodríguez
+Alexis Mac Allister,Erik Lamela,Facundo Medina,Exequiel Palacios
+Enzo Fernández,Giovani Lo Celso,Nicolás González,Gerónimo Rulli,Mauro Icardi,Facundo Medina,Guido Rodríguez,Exequiel Palacios
+Alexis Mac Allister,Giovani Lo Celso,Ángel Di María,Gerónimo Rulli
+Enzo Fernández,Nicolás González,Julián Álvarez,Ángel Correa,Thiago Almada
+Nicolás González,Rodrigo Javier De Paul,Nicolás Otamendi,Thiago Almada,Ángel Correa,Erik Lamela,Lautaro Martínez
+Lautaro Martínez,Juan Foyth,Lucas Ocampos
+Rodrigo Javier De Paul,Nicolás Otamendi,Mauro Icardi,Emiliano Buendía,Lisandro Martínez
+Nicolás González,Emiliano Martínez,Paulo Dybala,Alexis Mac Allister,Erik Lamela,Cristian Romero,Exequiel Palacios
+Nahuel Molina,Enzo Fernández,Nicolás González,Jeremías Conan Ledesma,Alexis Mac Allister,Guido Rodríguez,Ángel Correa,Thiago Almada,Ezequiel Ávila
+Facundo Medina,Erik Lamela,Mauro Icardi
+Enzo Fernández,Nicolás González,Paulo Dybala,Juan Foyth,Erik Lamela,Exequiel Palacios
+Enzo Fernández,Ángel Di María,Lucas Ocampos,Nicolás Otamendi,Juan Foyth,Cristian Romero,Ezequiel Ávila

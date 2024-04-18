@@ -1,0 +1,12 @@
+DATOS = 1
+CANTIDAD_ARGUMENTOS = 2
+NOMBRE_COMANDO = 0
+DIRECTORIO_SALIDA = "./salida"
+NOMBRE_ARCHIVO_SALIDA = "hitting_set.txt"
+ERROR_CANTIDAD_PARAMETROS = "Cantidad de argumentos inválida: falta indicar la ruta al archivo de entrada"
+ERROR_ENTRADA_INVALIDA = "Error: El comando ingresado es inválido"
+MENSAJE_INICIAL = "Usá el comando 'listar_algoritmos' para ver los algoritmos disponibles para obtener el Hitting Set\nPresioná 'Ctrl+D' para salir"
+MENSAJE_RESULTADO = "Hitting Set mínimo:"
+MENSAJE_EXPORTACION = "La solución con el Hitting Set fue exportada al directorio ./salida"
+FORMATO_FECHA = "%Y-%m-%d_%H%M%S"
+SEPARADOR = ", "
